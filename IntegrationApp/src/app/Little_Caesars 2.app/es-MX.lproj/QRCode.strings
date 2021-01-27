@@ -1,9 +1,0 @@
-
-/* Class = "UILabel"; text = "Enter Code %@"; ObjectID = "AaB-YU-Tn7"; */
-"AaB-YU-Tn7.text" = "Introduzca el código %@";
-
-/* Class = "UILabel"; text = "Look for your name, %@, on the screen and Scan QR Code to open Pizza Portal™"; ObjectID = "bxq-gj-4y5"; */
-"bxq-gj-4y5.text" = "Busque su nombre, %@, en la pantalla y escanee el Código QR para abrir el Portal Pizza™";
-
-/* Class = "UILabel"; text = "or"; ObjectID = "kRn-56-hce"; */
-"kRn-56-hce.text" = "O bien";

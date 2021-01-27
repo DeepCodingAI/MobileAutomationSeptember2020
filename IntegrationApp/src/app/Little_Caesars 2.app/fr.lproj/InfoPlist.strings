@@ -1,7 +1,0 @@
-/* (No Comment) */
-"CFBundleName" = "$ (PRODUCT_NAME)";
-
-/* (No Comment) */
-"NSLocationWhenInUseUsageDescription" = "Nous avons besoin de votre emplacement pour trouver le restaurant le plus proche de vous.";
-
-"NSFaceIDUsageDescription" = "Cela nous permettra d'accéder à votre Face ID pour authentifier";
