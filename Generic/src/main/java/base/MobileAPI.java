@@ -4,7 +4,9 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
+import io.appium.java_client.ios.IOSElement;
 import io.appium.java_client.remote.MobileCapabilityType;
+import io.appium.java_client.remote.MobilePlatform;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -12,9 +14,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 
 import java.io.File;
 import java.net.MalformedURLException;
@@ -29,33 +29,43 @@ public class MobileAPI {
     public DesiredCapabilities cap = null;
     public static File appDirectory = null;
     public static File findApp = null;
+    protected static IOSDriver<IOSElement> driver;
 
-    @Parameters({"OS","appType","deviceType","deviceName","version","moduleName","appName"})
+    @Parameters({"OS","appType","deviceType","deviceName","version","moduleName","appName","udid"})
     @BeforeMethod
-    public void setUp(String OS, String appType, String deviceType, String deviceName,String version,String moduleName,String appName) throws MalformedURLException {
+    public void setUp(String OS, String appType, String deviceType, String deviceName,String version,String moduleName,String appName, String udid) throws MalformedURLException {
         if (OS.equalsIgnoreCase("iOS")) {
-            if (OS.equalsIgnoreCase("Phone")) {
+            if (appType.equalsIgnoreCase("Phone")) {
+                appDirectory = new File(moduleName + "/src/app");
+                findApp = new File(appDirectory, appName);
                 if (deviceType.equalsIgnoreCase("realDevice")) {
                     cap = new DesiredCapabilities();
                     cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);
-                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, deviceName);
+                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, OS);
                     cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, version);
+                    cap.setCapability(MobileCapabilityType.UDID, udid);
                     cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
                     appiumDriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
                     appiumDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
                 } else if (deviceType.equalsIgnoreCase("simulator")) {
                     cap = new DesiredCapabilities();
                     cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);
-                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, deviceName);
+                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, OS);
                     cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, version);
+                    cap.setCapability(MobileCapabilityType.UDID, udid);
+                    cap.setCapability("xcodeOrgId", "AP9S669BXV"); // A8574P835Y
+                    cap.setCapability("xcodeSigningId", "iPhone Developer");
                     cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-                    appiumDriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
-                    appiumDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+                    cap.setCapability(MobileCapabilityType.APP, findApp.getAbsolutePath());
+//                    appiumDriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
+//                    appiumDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+                    driver = new IOSDriver<IOSElement>(new URL("http://127.0.0.1:4723/wd/hub"), cap);
+                    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
                 }
             } else if (OS.equalsIgnoreCase("Tablets")) {
                 cap = new DesiredCapabilities();
                 cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);
-                cap.setCapability(MobileCapabilityType.PLATFORM_NAME, deviceName);
+                cap.setCapability(MobileCapabilityType.PLATFORM_NAME, OS);
                 cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, version);
                 cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
                 appiumDriver = new IOSDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
@@ -68,7 +78,7 @@ public class MobileAPI {
                 if (deviceType.equalsIgnoreCase("realDevice")) {
                     cap = new DesiredCapabilities();
                     cap.setCapability(MobileCapabilityType.DEVICE_NAME, deviceName);
-                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, deviceType);
+                    cap.setCapability(MobileCapabilityType.PLATFORM_NAME, OS);
                     cap.setCapability(MobileCapabilityType.PLATFORM_VERSION, version);
                     cap.setCapability(MobileCapabilityType.APP, findApp.getAbsolutePath());
                     cap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
@@ -109,7 +119,7 @@ public class MobileAPI {
 
     @AfterMethod
     public void cleanUp(){
-        appiumDriver.quit();
+        driver.quit();
     }
 
     public void clickByXpath(String locator){
@@ -146,7 +156,7 @@ public class MobileAPI {
     }
     public void scrollToElement(AppiumDriver driver, String text){
         MobileElement we = (MobileElement) driver.findElementByXPath(text);
-        driver.scrollTo(we.getText());
+      //  driver.scrollTo(we.getText());
     }
     public void alertAccept(WebDriver driver){
         WebDriverWait wait = new WebDriverWait(driver,5);
@@ -158,6 +168,6 @@ public class MobileAPI {
         }
     }
     public void scrollAndClickByName(String locator){
-        appiumDriver.scrollTo(locator).click();
+     //   appiumDriver.scrollTo(locator).click();
     }
 }

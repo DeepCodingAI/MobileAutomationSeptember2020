@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "SAVED PAYMENT METHODS"; ObjectID = "Bxg-yN-zMJ"; */
+"Bxg-yN-zMJ.text" = "MÉTHODES DE PAIEMENT SAUVEGARDÉES";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "dLB-FL-YKU"; */
+"dLB-FL-YKU.text" = "nom";
+
+/* Class = "UILabel"; text = "Manage payment methods"; ObjectID = "E70-RD-9Cl"; */
+"E70-RD-9Cl.text" = "Gérez les méthodes de paiement";
+
+/* Class = "UILabel"; text = "type"; ObjectID = "NTv-Ct-SJQ"; */
+"NTv-Ct-SJQ.text" = "type";
+
+/* Class = "UIButton"; AZI.normalTitle = "Add New Card"; ObjectID = "0av-Up-mar"; */
+"0av-Up-mar.normalTitle" = "Ajouter une nouvelle carte";

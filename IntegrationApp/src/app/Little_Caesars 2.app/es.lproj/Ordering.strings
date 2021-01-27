@@ -1,0 +1,226 @@
+
+/* Class = "UIButton"; normalTitle = "Need More Time?"; ObjectID = "1RO-wC-8xV"; */
+"1RO-wC-8xV.normalTitle" = "¿Necesita más tiempo?";
+
+/* Class = "UIButton"; normalTitle = "In Store"; ObjectID = "6lS-ze-l2K"; */
+"6lS-ze-l2K.normalTitle" = "En la pizzería";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "8Uw-sP-w5v"; */
+"8Uw-sP-w5v.text" = "$100.00";
+
+/* Class = "UILabel"; text = "Using Credit Card"; ObjectID = "8Xp-Jw-Yqo"; */
+"8Xp-Jw-Yqo.text" = "Usar una tarjeta de crédito";
+
+/* Class = "UILabel"; text = "Confirm your order here. Tap the back button to make changes."; ObjectID = "ARd-nq-bYT"; */
+"ARd-nq-bYT.text" = "Confirme su orden aquí. Toque el botón de retroceso para cambiar algo. ";
+
+/* Class = "UILabel"; text = "Need more time?"; ObjectID = "uwy-Dh-SrA"; */
+"uwy-Dh-SrA.text" = "¿Necesita más tiempo?";
+
+/* Class = "UILabel"; text = "foodname"; ObjectID = "Fvl-Bh-2XG"; */
+"Fvl-Bh-2XG.text" = "producto";
+
+/* Class = "UILabel"; text = "Pickup only"; ObjectID = "aOS-wb-Ysx"; */
+"aOS-wb-Ysx.text" = "Recoger únicamente";
+
+/* Class = "UILabel"; text = "We plan to have your order ready\nSunday, May 29 12:30 PM"; ObjectID = "IPV-1U-9Jm"; */
+"IPV-1U-9Jm.text" = "Tendremos su orden lista en";
+
+/* Class = "UILabel"; text = "TAP TO EDIT YOUR ORDER"; ObjectID = "MYm-u0-re0"; */
+"MYm-u0-re0.text" = "TOQUE PARA EDITAR SU ORDEN";
+
+/* Class = "UILabel"; text = "TAP FOR DIRECTIONS"; ObjectID = "P5M-HQ-50S"; */
+"P5M-HQ-50S.text" = "TOQUE AQUÍ PARA INSTRUCCIONES DE CÓMO LLEGAR";
+
+/* Class = "UILabel"; text = "(xxxx-xxxx-xxxx-1234)"; ObjectID = "PQe-Np-lLu"; */
+"PQe-Np-lLu.text" = "(xxxx-xxxx-xxxx-1234)";
+
+/* Class = "UILabel"; text = "Your order is scheduled to be ready:\nThursday, Sep 1, 5:15 PM"; ObjectID = "QaB-2c-CCp"; */
+"QaB-2c-CCp.text" = "Su orden estará lista hoy en";
+
+/* Class = "UILabel"; text = "Choose Pickup Type"; ObjectID = "yW3-Wf-aBl"; */
+"yW3-Wf-aBl.text" = "SELECCIONAR TIPO DE RECOGIDA";
+
+/* Class = "UILabel"; text = "We’ll see you at"; ObjectID = "bnv-5l-pT9"; */
+"bnv-5l-pT9.text" = "Nos vemos a esta hora";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "W7k-rP-CNb"; */
+"W7k-rP-CNb.text" = "Dirección Ciudad Estado";
+
+/* Class = "UILabel"; text = "[OrderNumber]"; ObjectID = "WR0-QH-hUg"; */
+"WR0-QH-hUg.text" = "[OrderNumber]";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "XCe-o7-B38"; */
+"XCe-o7-B38.text" = "$100.00";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "YFI-2p-ib1"; */
+"YFI-2p-ib1.text" = "Total ";
+
+/* Class = "UILabel"; text = "We plan to have your order \nready in %d mins."; ObjectID = "Zha-0h-w4g"; */
+"Zha-0h-w4g.text" = "Tendremos su orden lista en %d minutos.";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "aaz-DB-nHa"; */
+"aaz-DB-nHa.text" = "$100.00";
+
+/* Class = "UILabel"; text = "You’re picking up from"; ObjectID = "bzi-If-Gur"; */
+"bzi-If-Gur.text" = "Usted recogerá en";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "cH1-P5-o2m"; */
+"cH1-P5-o2m.text" = "$100.00";
+
+/* Class = "UIButton"; normalTitle = "Payment"; ObjectID = "cbY-L1-0Nd"; */
+"cbY-L1-0Nd.normalTitle" = "Pago";
+
+/* Class = "UIButton"; normalTitle = "Need More Time?"; ObjectID = "coY-NP-cuv"; */
+"coY-NP-cuv.normalTitle" = "¿Necesita más tiempo?";
+
+/* Class = "UILabel"; text = "Pickup order:"; ObjectID = "fjK-8Y-16f"; */
+"fjK-8Y-16f.text" = "Recoger la orden:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ghB-Ps-eny"; */
+"ghB-Ps-eny.normalTitle" = "Listo";
+
+/* Class = "UIButton"; normalTitle = "Place Order"; ObjectID = "h97-qt-jow"; */
+"h97-qt-jow.normalTitle" = "Enviar su orden";
+
+/* Class = "UILabel"; text = "We'll have it HOT-N-READY® for you at:"; ObjectID = "hKK-gS-THU"; */
+"hKK-gS-THU.text" = "Estará HOT-N-READY® esperando por usted a las:";
+
+/* Class = "UIButton"; normalTitle = "At Pickup Window"; ObjectID = "hjo-RU-Uay"; */
+"hjo-RU-Uay.normalTitle" = "En la ventanilla de recogida";
+
+/* Class = "RotatingMessageLabel"; text = "Thanks for your order!"; ObjectID = "v4E-t1-Fwu"; */
+"v4E-t1-Fwu.text" = "¡Gracias por su orden!";
+
+/* Class = "UILabel"; text = "Here’s what we’ve got so far"; ObjectID = "icJ-uC-QVR"; */
+"icJ-uC-QVR.text" = " Éste es su pedido hasta ahora";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "jWM-Uu-IrT"; */
+"jWM-Uu-IrT.text" = "distancia";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "kqc-0x-gjT"; */
+"kqc-0x-gjT.text" = "Dirección Ciudad Estado";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "lZM-8d-7C3"; */
+"lZM-8d-7C3.text" = "Total del pedido";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "QE0-4b-CCX"; */
+"QE0-4b-CCX.text" = "Total del pedido";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "mG5-4g-Qbp"; */
+"mG5-4g-Qbp.text" = "Dirección Ciudad Estado";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "mlM-Vj-iKz"; */
+"mlM-Vj-iKz.text" = "Resumen";
+
+/* Class = "UILabel"; text = "Let's make sure we've got our pepperonis in check…"; ObjectID = "nSF-FF-ZFI"; */
+"nSF-FF-ZFI.text" = "Revisemos su orden... ";
+
+/* Class = "UILabel"; text = "foodname"; ObjectID = "pmD-AI-vRx"; */
+"pmD-AI-vRx.text" = "producto";
+
+/* Class = "UILabel"; text = "Extra info"; ObjectID = "rR6-iL-bPR"; */
+"rR6-iL-bPR.text" = "Información adicional";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "rdV-q8-Hw4"; */
+"rdV-q8-Hw4.text" = "$100.00";
+
+/* Class = "UIButton"; normalTitle = "Change Store"; ObjectID = "ttZ-aU-V00"; */
+"ttZ-aU-V00.normalTitle" = "Cambiar de pizzería";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "v06-zk-ulS"; */
+"v06-zk-ulS.text" = "distancia";
+
+/* Class = "UILabel"; text = "You're almost there!"; ObjectID = "xb0-Re-TFz"; */
+"xb0-Re-TFz.text" = "¡YA CASI TERMINA!";
+
+/* Class = "UILabel"; text = "Your order number is:"; ObjectID = "xvN-2T-qcj"; */
+"xvN-2T-qcj.text" = "El número de su orden es:";
+
+/* Class = "UILabel"; text = "Choose how you'd like to pay"; ObjectID = "kDL-uR-OVf"; */
+"kDL-uR-OVf.text" = "Elija cómo le gustaría pagar";
+
+/* Class = "UILabel"; text = "Credit Cards"; ObjectID = "6Sw-GI-gKL"; */
+"6Sw-GI-gKL.text" = "Tarjetas de crédito";
+
+/* Class = "UILabel"; text = "Swipe to remove a card"; ObjectID = "RoS-er-idN"; */
+"RoS-er-idN.text" = "Desliza para quitar una tarjeta";
+
+/* Class = "UILabel"; text = "Add New Card"; ObjectID = "Vx0-0o-qCC"; */
+"Vx0-0o-qCC.text" = "Agregar nueva tarjeta";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "6V1-Un-jHQ"; */
+"6V1-Un-jHQ.normalTitle" = "APLICAR";
+
+/* Class = "UILabel"; text = "Are You Ready To Checkout?"; ObjectID = "5S3-sm-NCC"; */
+"5S3-sm-NCC.text" = "¿Está listo para pagar?";
+
+/* Class = "UILabel"; text = "CONFIRME DETAILS"; ObjectID = "901-1L-Bp5"; */
+"901-1L-Bp5.text" = "CONFIRME DETALLES";
+
+/* Class = "UILabel"; text = "Estimated pickup time"; ObjectID = "Jla-nb-Gpv"; */
+"Jla-nb-Gpv.text" = "Tiempo estimado de recogida";
+
+/* Class = "UILabel"; text = "Payment method"; ObjectID = "8Hj-3B-ipT"; */
+"8Hj-3B-ipT.text" = "Método de pago";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "Byy-Ly-b2b"; */
+"Byy-Ly-b2b.text" = "CARRO";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "Lxb-b8-EZE"; */
+"Lxb-b8-EZE.normalTitle" = "EDITAR";
+
+/* Class = "UILabel"; text = "PAY BY CARD"; ObjectID = "9Uo-4Q-u8P"; */
+"9Uo-4Q-u8P.text" = "PAGAR POR TARJETA";
+
+/* Class = "UILabel"; text = "PLACE ORDER"; ObjectID = "9Uo-4Q-u8P"; */
+"9Uo-4Q-u8P.text" = "REALIZAR PEDIDO";
+
+/* Class = "UILabel"; text = "Promotions not available for guest checkout"; ObjectID = "GkE-sR-dHi"; */
+"GkE-sR-dHi.text" = "Promociones no disponibles para pago de invitado";
+
+/* Class = "UILabel"; text = "Promotions not available for guest checkout"; ObjectID = "nb5-Nf-B9e"; */
+"nb5-Nf-B9e.text" = "Promociones no disponibles para pago de invitado";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "tGi-HU-zj7"; */
+"tGi-HU-zj7.text" = "Total del pedido";
+
+/* Class = "UILabel"; text = "Pizza Portal™ Pickup Instructions"; ObjectID = "PkU-gj-wxk"; */
+"PkU-gj-wxk.text" = "Instrucciones para recoger su pedido en Pizza Portal™";
+
+/* Class = "LCEActiveButton"; normalTitle = "DONE"; ObjectID = "G4T-BB-auB"; */
+"G4T-BB-auB.normalTitle" = "HECHO";
+
+/* Class = "UILabel"; text = "Create Payment Method"; ObjectID = "Nj9-JU-wHB"; */
+"Nj9-JU-wHB.text" = "Crear método de pago";
+
+/* Class = "UILabel"; text = "Order is not complete until you confirm details and tap pay or place order button below."; ObjectID = "9gs-wU-szQ"; */
+"9gs-wU-szQ.text" = "El pedido no estará completo hasta que confirme los detalles y pulse el botón \"Pagar\" o \"Realizar pedido\".";
+
+/* Class = "UIButton"; normalTitle = "Have a promo code?"; ObjectID = "ays-rh-egs"; */
+"ays-rh-egs.normalTitle" = "¿Tiene un código de oferta?";
+
+/* Class = "UIButton"; disabledTitle = "No promotions currently available"; ObjectID = "ays-rh-egs"; */
+"ays-rh-egs.disabledTitle" = "No hay ofertas disponibles por ahora.";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE: <code>"; ObjectID = "fvi-Ej-19d"; */
+"fvi-Ej-19d.normalTitle" = "CÓDIGO DE LA OFERTA: <code>";
+
+/* Class = "UINavigationItem"; title = "Promo Code"; ObjectID = "kIK-Ik-kyf"; */
+"kIK-Ik-kyf.title" = "CÓDIGO DE LA OFERTA";
+
+/* Class = "UILabel"; text = "PROMO CODE"; ObjectID = "8wd-rZ-U4L"; */
+"8wd-rZ-U4L.text" = "CÓDIGO DE LA OFERTA";
+
+/* Class = "UITextField"; placeholder = "Enter promo code"; ObjectID = "oRp-8J-fEt"; */
+"oRp-8J-fEt.placeholder" = "Entre el código de la oferta";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "a4H-Uh-4dq"; Note = "Promo Code Apply"; */
+"a4H-Uh-4dq.normalTitle" = "ACTIVAR";
+
+/* Class = "UIButton"; normalTitle = "REMOVE"; ObjectID = "ClJ-20-Zlv"; */
+"ClJ-20-Zlv.normalTitle" = "ELIMINAR";
+
+/* Class = "UILabel"; text = "REVIEW ORDER"; ObjectID = "NKm-Jd-7p8"; */
+"NKm-Jd-7p8.text" = "ORDEN DE REVISIÓN";
+

@@ -1,0 +1,34 @@
+
+/* Class = "UILabel"; text = "Disabled"; ObjectID = "7JC-i9-mW3"; */
+"7JC-i9-mW3.text" = "Discapacitado";
+
+/* Class = "UILabel"; text = "Drag & Drop"; ObjectID = "85A-Lv-AHC"; */
+"85A-Lv-AHC.text" = "Arrastrar y soltar";
+
+/* Class = "UILabel"; text = "PREFERENCES"; ObjectID = "9RC-yq-igm"; */
+"9RC-yq-igm.text" = "PREFERENCIAS";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "A9J-nJ-dQI"; */
+"A9J-nJ-dQI.text" = "Sonar";
+
+/* Class = "UILabel"; text = "List"; ObjectID = "HuQ-i4-k5M"; */
+"HuQ-i4-k5M.text" = "Lista";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Je9-5j-oVD"; */
+"Je9-5j-oVD.normalTitle" = "Arrastrar y soltar";
+
+/* Class = "UILabel"; text = "Custom Pizza Builder Default View"; ObjectID = "KyA-61-Bom"; */
+"KyA-61-Bom.text" = "Vista predeterminada de Custom Pizza Builder";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "adr-LY-S5X"; */
+"adr-LY-S5X.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hly-I1-SLX"; */
+"hly-I1-SLX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Enabled"; ObjectID = "lUq-wt-4hE"; */
+"lUq-wt-4hE.text" = "Habilitado";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zJL-si-GRA"; */
+"zJL-si-GRA.normalTitle" = "Lista";
+

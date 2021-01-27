@@ -1,0 +1,156 @@
+
+/* Class = "UILabel"; text = "2211 Woodward Avenue"; ObjectID = "DZf-6H-TY7"; */
+"DZf-6H-TY7.text" = "2211 Woodward Avenue";
+
+/* Class = "UIButton"; normalTitle = "(313) 471 - 6473"; ObjectID = "Fee-AM-GJ4"; */
+"Fee-AM-GJ4.normalTitle" = "(313) 471 - 6473";
+
+/* Class = "UIButton"; normalTitle = "VIEW ORDER DETAILS"; ObjectID = "Feo-C7-wQV"; */
+"Feo-C7-wQV.normalTitle" = "VEA LOS DETALLES DEL PEDIDO";
+
+/* Class = "UILabel"; text = "Enter Code #471"; ObjectID = "Rws-Yg-qle"; */
+"Rws-Yg-qle.text" = "ENTER CODE: 471";
+
+/* Class = "UIButton"; normalTitle = "SCAN CODE"; ObjectID = "lVb-Jb-p0M"; */
+"lVb-Jb-p0M.normalTitle" = "ESCANEE EL CÓDIGO";
+
+/* Class = "UILabel"; text = "4:15 PM"; ObjectID = "UWC-Bz-g6J"; */
+"UWC-Bz-g6J.text" = "4:15 PM";
+
+/* Class = "UIButton"; normalTitle = "START NEW ORDER"; ObjectID = "Zzd-DO-hdV"; */
+"Zzd-DO-hdV.normalTitle" = "INICIE UN NUEVO PEDIDO";
+
+/* Class = "UIButton"; normalTitle = "START NEW ORDER"; ObjectID = "7RX-pu-0HS"; */
+"7RX-pu-0HS.normalTitle" = "INICIE UN NUEVO PEDIDO";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "2Z5-gd-4JE"; */
+"2Z5-gd-4JE.normalTitle" = "Inicio de sesión";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "ur3-pk-a0a"; */
+"ur3-pk-a0a.normalTitle" = "Únase";
+
+/* Class = "UILabel"; text = "Detroit, MI 48226"; ObjectID = "rw1-WV-5cr"; */
+"rw1-WV-5cr.text" = "Detroit, MI 48226";
+
+/* Class = "UILabel"; text = "PIZZA PORTAL PICKUP"; ObjectID = "vay-oi-ofh"; */
+"vay-oi-ofh.text" = "PIZZA PORTAL PICKUP";
+
+/* Class = "UILabel"; text = "Estimated Pick Up Time"; ObjectID = "u4W-XA-Icz"; */
+"u4W-XA-Icz.text" = "Hora de recogida estimada";
+
+/* Class = "UIButton"; normalTitle = "MAP"; ObjectID = "cRo-W4-fdZ"; */
+"cRo-W4-fdZ.normalTitle" = "MAPA";
+
+/* Class = "UILabel"; text = "DAVE , YOUR ORDER IS BEING PREPARED"; ObjectID = "Zbn-lx-jpW"; */
+"Zbn-lx-jpW.text" = "GRACIAS POR SU PEDIDO";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "9S4-Zt-r4U"; */
+"9S4-Zt-r4U.text" = "O bien";
+
+/* Class = "UILabel"; text = "Look for your name, %@, on the screen and Scan QR Code to open Pizza Portal™"; ObjectID = "lj1-ML-AsW"; */
+"lj1-ML-AsW.text" = "Busque su nombre, %@, en la pantalla y escanee el Código QR para abrir el Portal Pizza™";
+
+/* Class = "UILabel"; text = "Enter Code %@"; ObjectID = "uc8-7i-6Rl"; */
+"uc8-7i-6Rl.text" = "Introduzca el código %@";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "ONv-DJ-xOn"; */
+"ONv-DJ-xOn.text" = "O bien";
+
+/* Class = "UILabel"; text = "Look for your name, %@, on the screen and Scan QR Code to open Pizza Portal™"; ObjectID = "Qsn-TE-M5Q"; */
+"Qsn-TE-M5Q.text" = "Busque su nombre, %@, en la pantalla y escanee el Código QR para abrir el Portal Pizza™";
+
+/* Class = "UILabel"; text = "Enter Code %@"; ObjectID = "ztI-rA-NX2"; */
+"ztI-rA-NX2.text" = "Introduzca el código %@";
+
+/* Class = "UINavigationItem"; title = "Select Store"; ObjectID = "4wd-0I-v6Y"; */
+"4wd-0I-v6Y.title" = "Seleccione su tienda";
+
+/* Class = "UILabel"; title = "TRY AGAIN"; ObjectID = "Lay-re-2id"; */
+"Lay-re-2id.text" = "INTÉNTELO DE NUEVO";
+
+/* Class = "UILabel"; title = "No results were found for\nyour search."; ObjectID = "egj-tP-YHI"; */
+"egj-tP-YHI.text" = "No hay resultados\nen su búsqueda";
+
+/* Class = "UIButton"; normalTitle = "USE CURRENT LOCATION"; ObjectID = "mIe-MJ-8e1"; */
+"mIe-MJ-8e1.normalTitle" = "USAR UBICACIÓN ACTUAL";
+
+/* Class = "UILabel"; text = "TODAY'S HOURS"; ObjectID = "eld-h9-Mht"; */
+"eld-h9-Mht.text" = "HORAS DE HOY";
+
+/* Class = "UIButton"; normalTitle = "SELECT THIS STORE"; ObjectID = "cDV-J1-3N3"; */
+"cDV-J1-3N3.normalTitle" = "SELECCIONE ESTA TIENDA";
+
+/* Class = "UIButton"; normalTitle = "TODAY'S HOURS"; ObjectID = "GsG-Rc-V2O"; */
+"GsG-Rc-V2O.normalTitle" = "HORAS DE HOY";
+
+/* Class = "UIButton"; selectedTitle = "DAILY HOURS"; ObjectID = "GsG-Rc-V2O"; */
+"GsG-Rc-V2O.selectedTitle" = "HORAS DIARIAS";
+
+/* Class = "UIButton"; text = "Hide Order Details"; ObjectID = "4hs-0E-KO9"; */
+"4hs-0E-KO9.normalTitle" = "OCULTAR LOS DETALLES DEL PEDIDO";
+
+/* Class = "UIButton"; normalTitle = "Search this area"; ObjectID = "M58-Q9-cGU"; */
+"M58-Q9-cGU.normalTitle" = "Buscar en esta área";
+
+/* Class = "UINavigationItem"; title = "Store Details"; ObjectID = "Evp-lj-LfT"; */
+"Evp-lj-LfT.title" = "Información sobre la pizzería";
+
+/* Class = "UILabel"; text = "Ordering for a group?"; ObjectID = "QzG-Y6-QAl"; */
+"QzG-Y6-QAl.text" = "Pedido para un grupo";
+
+/* Class = "UIButton"; normalTitle = "PIZZA PARTY CALCULATOR"; ObjectID = "Xzn-XW-UFh"; */
+"Xzn-XW-UFh.normalTitle" = "Calculadora para fiestas de pizzas";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "DAe-Cb-0Yr"; */
+"DAe-Cb-0Yr.text" = "Lunes";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "rwd-2U-gSE"; */
+"rwd-2U-gSE.text" = "Martes";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "GmK-WD-3qK"; */
+"GmK-WD-3qK.text" = "Miércoles";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "syW-Rq-hZh"; */
+"syW-Rq-hZh.text" = "Jueves";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "vZ9-bU-lA1"; */
+"vZ9-bU-lA1.text" = "Viernes";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "edE-AN-ydR"; */
+"edE-AN-ydR.text" = "Sábado";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "O87-0b-YH4"; */
+"O87-0b-YH4.text" = "Domingo";
+
+/* Class = "UILabel"; text = "Store Order ID #"; ObjectID = "wsI-Mh-6JQ"; */
+"wsI-Mh-6JQ.text" = "# de identificación de la pizzería";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "EGR-xK-LGK"; */
+"EGR-xK-LGK.text" = "Detalles de la orden";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "toG-Xg-gbf"; */
+"toG-Xg-gbf.text" = "Método de pago";
+
+/* Class = "UILabel"; text = "Location Access"; ObjectID = "9kw-vK-L49"; */
+"9kw-vK-L49.text" = "ACCESO DE LOCALIZACIÓN DE PIZZERÍAS";
+
+/* Class = "UILabel"; text = "For a better experience, turn on location services.  We'll show you accurate menu and pricing for the closest stores."; ObjectID = "3pw-oZ-Mb4"; */
+"3pw-oZ-Mb4.text" = "Para mejor resultado, active el servicio de localización de pizzerías. Podrá ver el menú actual con los precios de las pizzerías más cercanas.";
+
+/* Class = "UIButton"; normalTitle = "Enable Location Access"; ObjectID = "GhV-Cp-wqs"; */
+"GhV-Cp-wqs.normalTitle" = "Activar acceso de localización de pizzerías";
+
+/* Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "t50-wB-mZx"; */
+"t50-wB-mZx.normalTitle" = "Ahora no";
+
+/* Class = "UIButton"; normalTitle = "START NEW ORDER"; ObjectID = "gxg-rG-qq9"; */
+"gxg-rG-qq9.normalTitle" = "INICIE UN NUEVO PEDIDO";
+
+/* Class = "UIButton"; normalTitle = "VIEW ORDER DETAILS"; ObjectID = "Feo-C7-wQV"; */
+"Feo-C7-wQV.normalTitle" = "VEA LOS DETALLES DEL PEDIDO";
+
+/* Class = "UIButton"; normalTitle = "Reorder"; ObjectID = "XH8-A6-DDU"; */
+"XH8-A6-DDU.normalTitle" = "Repetir pedido";
+
+/* Class = "UIButton"; normalTitle = "Reorder"; ObjectID = "zvP-Re-EXs"; */
+"zvP-Re-EXs.normalTitle" = "Repetir pedido";

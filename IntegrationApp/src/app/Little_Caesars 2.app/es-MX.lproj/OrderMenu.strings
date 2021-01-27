@@ -1,0 +1,36 @@
+
+/* Class = "UIImageView"; accessibilityLabel = "Create your own custom pizza"; ObjectID = "4d2-1u-ctF"; */
+"4d2-1u-ctF.accessibilityLabel" = "Crea tu propia pizza personalizada";
+
+/* Class = "UILabel"; text = "[Price]"; ObjectID = "BOa-Nf-BpZ"; */
+"BOa-Nf-BpZ.text" = "[Price]";
+
+/* Class = "UILabel"; text = "Pizza at your fingertips"; ObjectID = "CO6-Os-txp"; */
+"CO6-Os-txp.text" = "Pizza a su alcance";
+
+/* Class = "UILabel"; text = "[Availability]"; ObjectID = "XR6-bU-qYq"; */
+"XR6-bU-qYq.text" = "[Availability]";
+
+/* Class = "UILabel"; text = "[Name]"; ObjectID = "ay9-vD-I2F"; */
+"ay9-vD-I2F.text" = "[Name]";
+
+/* Class = "UILabel"; text = "Tap the plus sign (+) to add an item to your order. Tap the heart to make that item a favorite. Tap the item name to get nutritional information."; ObjectID = "eLp-hU-5b3"; */
+"eLp-hU-5b3.text" = "Toque el signo de más (+) para añadir un producto a su pedido. Toque el corazón para marcar ese producto como favorito. Toque el nombre del producto para obtener información nutricional.";
+
+/* Class = "UILabel"; text = "We have other delicious items you can order by calling this store!"; ObjectID = "kZk-gu-lGF"; */
+"kZk-gu-lGF.text" = "¡Tenemos otros productos sabrosos que puede ordenar si nos llama!";
+
+/* Class = "UILabel"; text = "[TITLE]"; ObjectID = "xDg-cE-8O1"; */
+"xDg-cE-8O1.text" = "[TITLE]";
+
+/* Class = "UILabel"; text = "GET STARTED"; ObjectID = "uGP-qX-BAq"; */
+"uGP-qX-BAq.text" = "Comience";
+
+/* Class = "UILabel"; text = "GET STARTED"; ObjectID = "fcO-ei-uTI"; */
+"fcO-ei-uTI.text" = "Comience";
+
+/* Class = "UILabel"; text = "PICK UP ORDER"; ObjectID = "41K-D2-xmR"; */
+"41K-D2-xmR.text" = "Recoger su pedido";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "pwI-ai-2XW"; */
+"pwI-ai-2XW.normalTitle" = "VER CESTA";

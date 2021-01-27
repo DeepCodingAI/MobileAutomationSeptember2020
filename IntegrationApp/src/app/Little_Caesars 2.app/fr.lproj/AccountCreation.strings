@@ -1,0 +1,12 @@
+/* Class = "UINavigationItem"; title = "Create Account"; ObjectID = "W6c-2a-Vi4"; */
+"W6c-2a-Vi4.title" = "Créer Un Compte";
+
+/* Class = "UILabel"; text = "Tell us about yourself"; ObjectID = "kUv-ei-txX"; */
+"kUv-ei-txX.text" = "Dites-nous qui vous êtes";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "P0i-08-fht"; */
+"P0i-08-fht.text" = "Créez un compte";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT "; ObjectID = "EES-dI-5s2"; */
+"EES-dI-5s2.normalTitle" = "CRÉER UN COMPTE ";
+

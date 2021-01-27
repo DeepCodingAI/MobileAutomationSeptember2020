@@ -1,0 +1,24 @@
+/* Class = "UILabel"; text = "Evening"; ObjectID = "3f4-Xh-Ga8"; */
+"3f4-Xh-Ga8.text" = "Soir";
+
+/* Class = "UILabel"; text = "Afternoon"; ObjectID = "9jC-FH-dD8"; */
+"9jC-FH-dD8.text" = "Après-midi";
+
+/* Class = "UILabel"; text = "Morning"; ObjectID = "C94-zc-FfU"; */
+"C94-zc-FfU.text" = "Matin";
+
+/* Class = "UILabel"; text = "5:15 PM"; ObjectID = "euT-0V-QKi"; */
+"euT-0V-QKi.text" = "17:15";
+
+/* Class = "UILabel"; text = "Schedule your order to be available at a later date."; ObjectID = "ORp-Fe-Dxf"; */
+"ORp-Fe-Dxf.text" = "Inscrivez votre commande à l’horaire pour une date future";
+
+/* Class = "UILabel"; text = "12:00 AM"; ObjectID = "rPi-Yv-MGs"; */
+"rPi-Yv-MGs.text" = "00:00";
+
+/* Class = "UILabel"; text = "Late Night"; ObjectID = "S9P-3K-4Ld"; */
+"S9P-3K-4Ld.text" = "Fin de soirée";
+
+/* Class = "UILabel"; text = "When's a good time for you?"; ObjectID = "sCg-NA-mXu"; */
+"sCg-NA-mXu.text" = "Quelle heure vous convient?";
+

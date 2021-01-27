@@ -1,0 +1,1513 @@
+/* Order menu spoken accessibility */
+" at " = " à ";
+
+/* Order menu spoken accessibility */
+" from cart" = " du chariot";
+
+/* Order menu spoken accessibility */
+" in cart" = " dans le chariot";
+
+/* Account update */
+"[Name]’s Account" = "Compte de [Name]";
+
+"Edit Account Info" = "Modifier Les Données Du Comte";
+
+/* Account info */
+"[Name]’s Pizza Account" = "Compte pizza de [Name]";
+
+/* kilometers to one decimal place */
+"%.1f km" = "%.1f km";
+
+/* miles to one decimal place */
+"%.1f mi" = "%.1f mi";
+
+/* Store info distance such as 1.4 m away */
+"%@ away" = "%@ de distance";
+
+/* Order cart */
+"1 item in cart" = "1 article dans le chariot";
+
+/* Custom Pizza Builder */
+"A Light Cheese pizza will require removing the Extra Cheese topping on your pizza. Are you sure you’d like to remove some cheese from this pizza?" = "Une pizza avec peu de fromage exige d’enlever la garniture Extra fromage de votre pizza. Êtes-vous certain de vouloir retirer du fromage de cette pizza?";
+
+/* Custom Pizza Builder */
+"A No Cheese pizza will require removing the Extra Cheese topping on your pizza. Are you sure you’d like to remove all the cheese off this pizza?" = "Une pizza Sans fromage exige d’enlever la garniture Extra fromage de votre pizza.  Êtes-vous certain de vouloir retirer tout le fromage de cette pizza?";
+
+/* Custom Pizza Builder price error */
+"A problem occurred while ordering this custom pizza" = "Un problème s’est produit durant la commande de cette pizza sur mesure";
+
+/* Failed confirming order */
+"A problem occurred while trying to place the order. Please wait a minute and try again. If the problem continues to occur, please call the store." = "Un problème s’est produit en tentant de placer la commande. Veuillez attendre une minute et réessayer. Si le problème se poursuit, veuillez appeler le restaurant.";
+
+/* Landing order details
+   Order Detail */
+"A Special pickup awaits you in our lobby." = "Une cueillette spéciale vous attend dans notre salle d’accueil.";
+
+/* Failed eprotect */
+"A technical problem occurred while trying to place the order. We are unable to place your order at this time, please call and place the order directly with the store." = "Un problème s’est produit en tentant de placer la commande. Nous ne pouvons placer la commande maintenant. Veuillez appeler le restaurant et commander directement.";
+
+/* Accessible spoken screen name */
+"About" = "Au sujet de";
+
+/* Landing screen gear menu */
+"About Little Caesars" = "Au sujet de Little Caesars";
+
+/* Terms of Service agreement button */
+"ACCEPT & CONTINUE" = "ACCEPTER ET CONTINUER";
+
+/* Landing screen gear menu */
+"Account" = "Compte";
+
+/* Account button */
+"ACCOUNT" = "COMPTE";
+
+/* Accessible spoken screen name */
+"Account Information" = "Données du compte";
+
+/* Order menu spoken accessibility */
+"Add" = "Ajouter";
+
+/* Accessible spoken screen name */
+"Add Credit Card" = "Ajouter une carte de crédit";
+
+/* Custom Pizza Builder */
+"ADD TO CART" = "AJOUTER AU PANIER";
+
+/* Unknown error when processing payment */
+"An error occurred while processing your payment." = "Une erreur s’est produite durant le traitement de votre paiement.";
+
+/* Order detail payment */
+"Apple Pay (ref-%@)" = "Apple Pay (ref-%@)";
+
+/* LogOut PopUp */
+"Are you sure you want to logout?" = "Êtes-vous certain de vouloir vous déconnecter?";
+
+/* Custom Pizza X All button warning */
+"Are you sure you want to remove all the toppings from your pizza?" = "Êtes-vous certain de vouloir retirer toutes les garnitures de votre pizza?";
+
+/* message in view alert */
+"Are you sure you're ready to remove this item from your list of favorites? You can always go to the Store Order page and favorite it again." = "Êtes-vous certain d’être prêt à retirer cet article de la liste de vos préférés? Vous pouvez toujours aller à la page Commande de restaurant pour l’identifier à nouveau comme préféré.";
+
+/* message in view alert */
+"Are you sure you're ready to remove this store from your list of favorites? You can always go to the Store Information page and favorite it again." = "Êtes-vous certain d’être prêt à retirer ce restaurant de la liste de vos préférés? Vous pouvez toujours aller à la page Données des restaurants et le nommer à nouveau comme préféré.";
+
+/* message in view alert */
+"Are you sure you’re ready to remove this payment method? In order to add it back, you’ll have to re-enter it when you go to place an order." = "Êtes-vous certain de vouloir retirer cette méthode de paiement? Pour la rajouter, vous devrez la saisir à nouveau au moment de commander.";
+
+"Are you sure you’re ready to remove this payment method?" = "Êtes-vous certain de vouloir retirer cette méthode de paiement?";
+
+/* Account creation */
+"Awesome! Your account has been created." = "Excellent! Votre compte a été créé.";
+
+/* Push notification prompt message */
+"Can we send you notifications about your order?" = "Pouvons-nous vous envoyer des avis au sujet de votre commande?";
+
+/* Cancel button
+   Change store
+   Custom Pizza Builder menu
+   Custom Pizza X All button warning
+   Landing screen gear menu
+   LogOut PopUp
+   Store Info Maps
+   Store is closing */
+"Cancel" = "Annuler";
+
+/* Order History */
+"Cannot get order history for account" = "Impossible d’obtenir l’historique des commandes pour ce compte";
+
+/* Whitespace in password entry */
+"Cannot have spaces" = "Ne peut pas comporter d’espaces";
+
+/* Terse errors in password entry */
+"Cannot include your username" = "Ne peut pas inclure votre nom d’utilisateur";
+
+/* Payment card deletion */
+"Cannot remove card from account" = "Impossible de retirer la carte du compte";
+
+/* No comment provided by engineer. */
+"Carry-out" = "À emporter";
+
+/* Custom Pizza back navigation */
+"Cart" = "Chariot";
+
+/* Forgot password */
+"Check your email for password reset instructions" = "Vérifiez votre courriel pour les instructions de réinitialisation du mot de passe.";
+
+/* Custom Pizza X All button warning
+   Delete topping */
+"Clear" = "Effacer";
+
+/* Custom Pizza Builder menu */
+"Clear Toppings" = "Effacer les garnitures";
+
+/* Email Verification */
+"Close" = "Fermer";
+
+/* close button */
+"CLOSE" = "FERMER";
+
+/* Store status - closed */
+"Closed" = "Fermé";
+
+/* Store status - closing in number of minutes */
+"Closing in %d" = "Ferme dans %d";
+
+/* Code String
+   Pizza Portal Instructions */
+"CODE" = "CODE";
+
+/* Change password */
+"Could not change password" = "Impossible de changer le mot de passe";
+
+/* Account creation */
+"Could not create account" = "Impossible de créer le compte";
+
+/* Account deletion */
+"Could not delete account" = "Impossible d’effacer le compte";
+
+/* Custom Pizza Menu Images */
+"Could not get custom images" = "Impossible d’obtenir les images personnalisées";
+
+/* Custom Pizza Menu */
+"Could not get custom menu" = "Impossible d’obtenir le menu personnalisé";
+
+/* Custom Pizza Menu Price */
+"Could not get custom price" = "Impossible d’obtenir le prix personnalisé";
+
+/* Message to user on failure in the final step of order placement */
+"Could not parse integer CVOrderNumber" = "Impossible d’analyser la valeur entière CVOrderNumber";
+
+/* Message to user on failure in the final step of order placement */
+"Could not parse string AppOrderNumber" = "Impossible d’analyser la chaîne AppOrderNumber";
+
+/* Forgot Account */
+"Could not request account information" = "Impossible de demander les données du compte";
+
+/* Forgot password */
+"Could not request password reset" = "Impossible de demander la réinitialisation du mot de passe";
+
+/* Account update */
+"Could not update account" = "Impossible de mettre le compte à jour";
+
+/* Accessible spoken screen name */
+"Create Account" = "Créer un compte";
+
+/* Promo button */
+"CREATE ACCOUNT" = "CRÉER UN COMPTE";
+
+/* Promo button */
+"CREATE AN ACCOUNT NOW!" = "CRÉER UN COMPTE MAINTENANT!";
+
+/* Payment choosing */
+"Credit Card" = "Carte de crédit";
+
+/* Order detail payment */
+"Credit Card (x-%@)" = "Carte de crédit (x-%@)";
+
+/* Accessible spoken screen name */
+"Current Order" = "Commande actuelle";
+
+/* Order banner - leave the slash-n for line break
+   Order Detail View */
+"CURRENT ORDER" = "COMMANDE ACTUELLE";
+
+/* Account Orders list */
+"CURRENT ORDERS" = "COMMANDES ACTUELLES";
+
+/* Accessible spoken screen name */
+"Custom Builder Selection" = "Sélection du constructeur sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Builder" = "Construction de pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Current Toppings Editor" = "Modificateur des garnitures actuelles de la pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Edit Topping" = "Modifier les garnitures de la pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Grid" = "Grille de pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Options" = "Options de pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Topping Editor" = "Modificateur des garnitures de la pizza sur mesure";
+
+/* Accessible spoken screen name */
+"Custom Pizza Toppings" = "Garnitures de la pizza sur mesure";
+
+/* Search no results */
+"Darn. You must be too far away. Don’t worry, your pizza will be HOT-N-READY when you make it to pizza civilization." = "Dommage. Vous devez être trop loin. Ne vous en faites pas, votre pizza sera PRÊT-AU-CHAUD à votre retour dans le monde civilisé de la pizza.";
+
+/* Accessible spoken screen name */
+"Delete Account" = "Effacer le compte";
+
+/* delete from cart */
+"Delete Item" = "Effacer l’article";
+
+/* No comment provided by engineer. */
+"Delivery" = "Livraison";
+
+/* Button */
+"Detail" = "Détail";
+
+/* Landing screen */
+"Determining where you are..." = "Nous déterminons où vous êtes...";
+
+/* Search result feature */
+"Dine In" = "Manger su place";
+
+/* No comment provided by engineer. */
+"Dine-in" = "Manger sur place";
+
+/* Terse errors in password entry */
+"Does not match password" = "Le mot de passe ne correspond pas";
+
+/* Search no results */
+"Don't worry. Your HOT-N-READY® pizza will be waiting once you connect to the Internet." = "Ne vous préoccupez pas. Votre pizza PRÊT-AU-CHAUD vous attendra une fois que vous serez connecté à l’Internet.";
+
+/* Pizza Party Calculator food name just one */
+"Drink" = "Boisson";
+
+/* Pizza Party Calculator food name */
+"Drinks" = "Boissons";
+
+/* Pizza Calc Bar Label Capitalized */
+"DRINKS" = "BOISSONS";
+
+/* Search result feature */
+"Drive Thru" = "Service-au-volant";
+
+/* No comment provided by engineer. */
+"Drive-thru" = "Service-au-volant";
+
+/* East */
+"E" = "E";
+
+/* Terms of Service agreement button */
+"EMAIL ME" = "M’ENVOYER UN COURRIEL";
+
+/* Terms of Service agreement button */
+"EMAIL ME AND ACCEPT" = "M’ENVOYER UN COURRIEL ET ACCEPTER";
+
+/* East North East */
+"ENE" = "ENE";
+
+/* Landing screen */
+"Enter your location above so that we can find your closest store." = "Saisissez votre emplacement ci-dessus pour que nous puissions trouver le restaurant le plus proche de vous.";
+
+/* No comment provided by engineer. */
+"Error setting favorite item" = "Erreur dans le réglage de l’article préféré";
+
+/* East South East */
+"ESE" = "ESE";
+
+/* Custom Pizza Builder */
+"Extra cheese is not available with a light cheese pizza." = "Extra fromage n’est pas offert sur une pizza avec peu de fromage";
+
+/* Custom Pizza Builder */
+"Extra cheese is not available with a no cheese pizza." = "Extra fromage n’est pas disponible sur une pizza sans fromage.";
+
+/* Feedback Discussion Topics */
+"Facility" = "Installation";
+
+/* Accessible spoken screen name
+   Account Info row */
+"Favorite Items" = "Articles préférés";
+
+/* FavoriteNotFound */
+"Favorite items not found" = "Articles préférés non trouvés";
+
+/* Account Info row */
+"Favorite Stores" = "Restaurants préférés";
+
+/* FavoriteNotFound */
+"Favorite store not found." = "Restaurant préférés non trouvés.";
+
+/* Accessible spoken screen name
+   Favorites section title in store menu */
+"Favorites" = "Préférés";
+
+/* Landing screen gear menu */
+"Feedback" = "Rétroaction";
+
+/* No comment provided by engineer. */
+"Feeling extra cheesy?" = "Vous avez le goût de plus de fromage?";
+
+/* Accessible spoken screen name */
+"Forgot Account" = "Compte oublié";
+
+/* Accessible spoken screen name */
+"Forgot Password" = "Mot de passe oublié";
+
+/* Location you picked up from, part 3
+   Location you're picking up from, part 3 */
+"from" = "de";
+
+/* Store Information Screen Disclosure */
+"Full Menu" = "Menu complet";
+
+/* Accessible spoken screen name
+   Store is closing */
+"Future Order" = "Commande future";
+
+/* Order Detail View */
+"FUTURE ORDER" = "COMMANDE FUTURE";
+
+/* Account Orders list */
+"FUTURE ORDERS" = "COMMANDES FUTURES";
+
+/* Store Information Screen slogan */
+"Get over here already, your HOT-N-READY!® pizza’s waiting." = "Arrivez, votre pizza PRÊT-AU-CHAUD vous attend.";
+
+/* Push notification prompt title */
+"Get Updated!" = "Mettez-vous à jour!";
+
+/* Promo button */
+"GOT IT!" = "COMPRIS!";
+
+/* Accessible spoken screen name */
+"Guest" = "Invité";
+
+/* Accessible spoken screen name */
+"Guest User" = "Utilisateur invité";
+
+/* No comment provided by engineer. */
+"HAVING A %@ DILEMMA?" = "VOUS AVEZ UN DILEMME %@?";
+
+/* Web Links */
+"https://littlecaesars.ca/en-ca/legal/terms-of-service" = "https://littlecaesars.ca/fr-ca/legal/terms-of-service";
+
+/* Web Links */
+"https://littlecaesars.ca/en-ca/legal/privacy-policy" = "https://littlecaesars.ca/fr-ca/legal/privacy-policy";
+
+/* Web Links */
+"https://littlecaesars.com/en-us/IAbout/enussl" = "https://littlecaesars.com/en-us/IAbout/enussl";
+
+/* Landing order details
+   Order Details */
+"If you don't see your QR code, talk with someone at the counter." = "Si vous ne voyez pas votre code QR, adressez-vous à une personne au comptoir.";
+
+/* Ignore button for push alert */
+"Ignore" = "Ignorer";
+
+/* Terse errors in text field entry */
+"In Past" = "Dans le passé";
+
+/* Terse errors in text field entry */
+"Invalid" = "Non valable";
+
+/* No comment provided by engineer. */
+"It's a delicious afternoon for pizza!" = "C’est un après-midi délicieux pour de la pizza!";
+
+/* Landing banner */
+"It's a delicious day for pizza!" = "C’est une journée délicieuse pour de la pizza!";
+
+/* No comment provided by engineer. */
+"It's a delicious evening for pizza!" = "C’est une soirée délicieuse pour de la pizza!";
+
+/* No comment provided by engineer. */
+"It's a delicious morning for pizza!" = "C’est un matin délicieux pour de la pizza!";
+
+/* Accessible spoken screen name */
+"Job Details" = "Détails du poste";
+
+/* Accessible spoken screen name
+   Store Information Screen Disclosure */
+"Jobs" = "Postes";
+
+/* No comment provided by engineer. */
+"Keep" = "Garder";
+
+/* Accessible spoken screen name
+   Landing screen gear menu */
+"Legal" = "Légal";
+
+/* Accessible spoken screen name */
+"Little Caesars App" = "Appli Little Caesars";
+
+/* Landing order details */
+"LOCATION \nIN LOBBY" = "EMPLACEMENT 
+DANS LA SALLE D’ACCUEIL";
+
+/* Location you picked up from, part 1 */
+"Location you" = "Emplacement où vous";
+
+/* Location you're picking up from, part 1 */
+"Location you're" = "Emplacement où vous";
+
+/* Accessible spoken screen name */
+"Login" = "Connexion";
+
+/* No comment provided by engineer. */
+"Login failed, could not contact server." = "La connexion a échoué; communication avec le serveur impossible.";
+
+/* Login button */
+"LOGIN/ACCOUNT" = "CONNECTER/COMPTE";
+
+/* LogOut PopUp */
+"Logout" = "Déconnexion";
+
+/* Landing screen
+   Search no results yet */
+"Looking for pizza? We’re here to help. Please turn your pizza location services on." = "Vous cherchez de la pizza? Nous sommes là pour vous aider. Veuillez activer vos services de localisation de pizza.";
+
+/* Searching */
+"Looking for the closest store to you..." = "Nous cherchons le restaurant le plus proche de chez vous…";
+
+/* Searching */
+"Looking for the nearest stores..." = "Nous cherchons les restaurants les plus proches…";
+
+/* Account Info row */
+"Manage Password" = "Gérer le mot de passe";
+
+/* Feedback Discussion Topics */
+"Marketing/Advertising" = "Marketing/Publicité";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS EXCEEDED" = "MAXIMUM DE GARNITURES DÉPASSÉ";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS EXCEEDED ON LEFT" = "MAXIMUM DE GARNITURES DÉPASSÉ À GAUCHE";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS EXCEEDED ON RIGHT" = "MAXIMUM DE GARNITURES DÉPASSÉ À DROITE";
+
+/* Custom Pizza topping level warnings */
+"Maximum toppings have been added to the left side of your pizza." = "Le maximum de garnitures a été ajouté du côté gauche de votre pizza.";
+
+/* Custom Pizza topping level warnings */
+"Maximum toppings have been added to the right side of your pizza." = "Le maximum de garnitures a été ajouté du côté droit de votre pizza.";
+
+/* Custom Pizza topping level warnings */
+"Maximum toppings have been added to your pizza." = "Le maximum de garnitures a été ajouté à votre pizza.";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS REACHED" = "MAXIMUM DE GARNITURES ATTEINT";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS REACHED ON LEFT" = "MAXIMUM DE GARNITURES ATTEINT À GAUCHE";
+
+/* Custom Pizza topping level warnings */
+"MAXIMUM TOPPINGS REACHED ON RIGHT" = "MAXIMUM DE GARNITURES ATTEINT À DROITE";
+
+/* Custom Pizza back navigation
+   Landing menu accessible spoken name */
+"Menu" = "Menu";
+
+/* Accessible spoken screen name */
+"Menu Item Information" = "Renseignements sur un article du menu";
+
+/* No comment provided by engineer. */
+"Missing StoreID" = "L’ID de restaurant manque";
+
+/* Terse errors in password entry */
+"Must be at least 7 characters" = "Doit avoir au moins 7 caractères";
+
+/* Modal display of requirements user must comply with to compose a valid password */
+"Must be at least 7 characters\nMust contain at LEAST 1 uppercase letter\nMust contain at LEAST 1 lowercase letter\nMust contain at LEAST 1 number\nMust NOT contain your email account name (everything before the @ symbol in your email)" = "Doit avoir au moins 7 caractères
+Doit contenir AU MOINS une majuscule
+Doit contenir AU MOINS une minuscule
+Doit contenir AU MOINS un chiffre
+NE DOIT PAS contenir votre nom de compte courriel (tout ce qui se trouve avant le symbole @ dans votre courriel)";
+
+/* North */
+"N" = "N";
+
+/* North East */
+"NE" = "NE";
+
+/* Terse errors in text field entry */
+"Need valid email" = "Besoin d’une adresse courriel valable";
+
+/* Terse errors in password entry */
+"Needs a number" = "Il faut un chiffre";
+
+/* Terse errors in password entry */
+"Needs LOWERCASE letter" = "Il faut une MINUSCULE";
+
+/* Terse errors in password entry */
+"Needs UPPERCASE letter" = "Il faut une MAJUSCULE";
+
+/* Accessible spoken screen name */
+"New User" = "Nouvel utilisateur";
+
+/* North North East */
+"NNE" = "NNE";
+
+/* North North West */
+"NNW" = "NNO";
+
+/* Push notification prompt option */
+"No" = "Non";
+
+/* Message to user on failure in the final step of order placement */
+"No results returned for ConfirmOrder" = "La recherche ConfirmOrder n’a pas produit de résultats";
+
+/* Search no results */
+"No Stores are found" = "Aucun restaurant n’a été trouvé";
+
+/* Promo button */
+"NO THANKS" = "NON MERCI";
+
+/* number of orders abbreviation */
+"NO." = "NO.";
+
+/* Push notification title */
+"Notification" = "Avis";
+
+/* North West */
+"NW" = "NO";
+
+/* Empty Order Menu */
+"Oh no. Our pepperoni’s are out of alignment! Please try again later." = "Nos peppéronis se sont désalignés! Veuillez réessayer plus tard.";
+
+/* OK button
+   Promo button
+   Sharing to Twitter/Facebook
+   Store Info Maps */
+"OK" = "OK";
+
+/* Promo button */
+"OK THANKS!" = "OK MERCI!";
+
+/* No comment provided by engineer. */
+"Online Ordering" = "Commande en ligne";
+
+/* Store Information Screen Disclosure */
+"Online Ordering Menu" = "Menu de commande en ligne";
+
+/* Store status - opening in number of minutes */
+"Open in %d" = "Ouvre dans %d";
+
+/* Store status - opening at a specific time */
+"Opening at %@" = "Ouvre à %s";
+
+/* Landing order details */
+"Order" = "Commander";
+
+/* Order Detail View */
+"ORDER" = "COMMANDER";
+
+/* Accessible spoken screen name */
+"Order Confirmation" = "Confirmation de commande";
+
+/* Landing screen gear menu */
+"Order History" = "Historique de commande";
+
+/* Pizza Party Calculator Customize button */
+"ORDER NOW!" = "COMMANDER MAINTENANT!";
+
+/* Accessible spoken screen name */
+"Ordering Menu" = "Menu de commande";
+
+/* Accessible spoken screen name
+   Account Info row */
+"Orders" = "Commandes";
+
+/* Feedback Discussion Topics */
+"Other" = "Autres";
+
+/* change password */
+"Password has been changed" = "Le mot de passe a été changé";
+
+/* Modal display of requirements user must comply with to compose a valid password */
+"Password Requirements" = "Exigences du mot de passe";
+
+/* Accessible spoken screen name */
+"Past Order" = "Commande passée";
+
+/* Account Orders list */
+"PAST ORDERS" = "COMMANDES PASSÉES";
+
+/* Accessible spoken screen name */
+"Payment" = "Paiement";
+
+/* Landing order details */
+"Payment method" = "Méthode de paiement";
+
+/* Accessible spoken screen name */
+"Payments" = "Paiements";
+
+/* Location you picked up from, part 2 */
+"picked up" = "recueillie";
+
+/* Location you're picking up from, part 2 */
+"picking up" = "pour cueillette";
+
+/* No comment provided by engineer. */
+"Pickup window" = "Guichet de cueillette";
+
+/* Pizza Party Calculator food name just one */
+"Pizza" = "Pizza";
+
+/* Pizza Calc Bar Label Capitalized */
+"PIZZA" = "PIZZA";
+
+/* Accessible spoken screen name */
+"Pizza Bank Information" = "Données de la banque de pizza";
+
+/* Accessible spoken screen name */
+"Pizza Bank Refill" = "Recharger la banque de pizza";
+
+/* Accessible spoken screen name */
+"Pizza Bank Transfer" = "Transfert de la banque de pizza";
+
+/* unexpected error with pizza calculator */
+"Pizza Calculator is unavailable at this time" = "La calculatrice de pizza n’est pas accessible en ce moment.";
+
+/* Push notification message */
+"Pizza is ready" = "La pizza est prête";
+
+/* Accessible spoken screen name
+   Store Information Screen Disclosure */
+"Pizza Party Calculator" = "Calculatrice de party pizza";
+
+/* Accessible spoken screen name */
+"Pizza Party Calculator Ordering" = "Commande de la calculatrice de party pizza";
+
+/* Accessible spoken screen name
+   Pizza Party Calculator */
+"Pizza Party Calculator Results" = "Résultats de la calculatrice de party pizza";
+
+/* Accessible spoken screen name
+   Search result feature */
+"Pizza Portal" = "Portail Pizza";
+
+/* Landing order details */
+"Pizza Portal™ Pickup Instructions" = "Instructions de cueillette au Portail PizzaMD";
+
+/* Pizza Party Calculator food name */
+"Pizzas" = "Pizzas";
+
+/* Accessible spoken screen name */
+"Place Order" = "Placer la commande";
+
+/* CONFIRM DETAILS HEADER */
+"CONFIRM DETAILS" = "CONFIRMEZ LES DÉTAILS";
+
+/* PAYBUTTON */
+"PLACE ORDER" = "PLACER LA COMMANDE";
+
+/* Any invalid text fields anywhere in the app */
+"Please be sure you have entered your information correctly." = "Assurez-vous que les données ont été bien saisies.";
+
+/* Sent email for forgotten account */
+"Check your email for password reset instructions." = "Vérifiez votre courriel pour les instructions de réinitialisation du mot de passe.";
+
+/* No comment provided by engineer. */
+"Please select a time in the future." = "Sélectionnez un moment dans le futur.";
+
+/* Accessible spoken screen name
+   Account Info row
+   Landing screen gear menu */
+"Preferences" = "Préférences";
+"CURRENT COUNTRY" = "PAYS ACTUEL";
+"Change Country?" = "Changer de Pays?";
+"CHANGE COUNTRY" = "CHANGER DE PAYS";
+"By changing your country you may lose any saved information such as stored payments and favorites.  You may need to create another account as a separate account is required for each country.  Are you sure you want to change country?" = "En changeant de pays, vous risquez de perdre tous les renseignements sauvegardés comme vos modes de paiement et vos favoris. Il est possible que vous deviez créer un compte distinct pour chaque pays. Désirez-vous vraiment changer de pays?";
+
+/* LegalItems */
+"Privacy Policy" = "Politique de confidentialité";
+
+"I have read and accept the Privacy Policy" = "J’ai lu et j’accepte la Politique de confidentialité";
+
+/* LegalItems */
+"Privacy Policy (California)" = "Politique de confidentialité (Californie)";
+
+/* Feedback Discussion Topics */
+"Product" = "Produit";
+
+/* Search result feature */
+"Promotion" = "Promotion";
+
+/* Custom Pizza No Cheese warning
+   Order menu spoken accessibility
+   Remove button */
+"Remove" = "Retirer";
+
+/* title in view alert */
+"Remove favorite item?" = "Retirer l’article préféré?";
+
+/* title in view alert */
+"Remove favorite store?" = "Retirer le restaurant préféré?";
+
+/* title in view alert */
+"Remove payment method?" = "Retirer la méthode de paiement?";
+
+/* Order menu spoken accessibility */
+"Removed " = "Retiré ";
+
+/* Terse errors in text field entry */
+"Required" = "Requis";
+
+/* Email Verification */
+"Resend" = "Renvoyer";
+
+/* Custom Pizza back navigation */
+"Returning to the main menu will clear your custom pizza. Are you sure you want to do that?" = "Revenir au menu principal va effacer votre pizza sur mesure. Êtes-vous certain de vouloir le faire?";
+
+/* Custom Pizza back navigation */
+"Returning to your cart will discard the changes you've made to this custom pizza. Are you sure you want to do that?" = "Revenir à votre chariot va éliminer les changements à cette pizza sur mesure. Êtes-vous certain de vouloir le faire?";
+
+/* South */
+"S" = "S";
+
+/* Account Info row */
+"Saved Payment Methods" = "Méthodes de paiement sauvegardées";
+
+/* South East */
+"SE" = "SE";
+
+/* Accessible spoken button name
+   Accessible spoken screen name */
+"Search" = "Chercher";
+
+/* Accessible spoken screen name */
+"Security" = "Sécurité";
+
+/* Accessible spoken screen name */
+"Select Payment" = "Sélectionnez un mode de paiement";
+
+/* Feedback Discussion Topics */
+"Select Topic" = "Sélectionnez un sujet";
+
+/* Past order feedback button */
+"Send Feedback" = "Envoyez de la rétroaction";
+
+/* Feedback Discussion Topics */
+"Service" = "Service";
+
+/* Pizza Party Calculator Share button */
+"SHARE" = "PARTAGER";
+
+/* Store Info Maps */
+"Show directions to this store?" = "Montrer le chemin pour aller à ce restaurant?";
+
+/* Pizza Party Calculator food name just one */
+"Side" = "À-côté";
+
+/* Pizza Party Calculator food name */
+"Sides" = "À-côtés";
+
+/* Pizza Calc Bar Label Capitalized */
+"SIDES" = "À-CÔTÉS";
+
+/* Feedback Send Result */
+"Sorry, feedback could not be sent at this time. Please try again later." = "Désolé, impossible d’envoyer la rétroaction en ce moment. Veuillez réessayer plus tard.";
+
+/* South South East */
+"SSE" = "SSE";
+
+/* South South West */
+"SSW" = "SSO";
+
+/* Promo button */
+"START MY ORDER!" = "DÉMARREZ MA COMMANDE!";
+
+/* Custom Pizza back navigation */
+"Stay" = "Rester";
+
+/* Store Closed
+   Store Status - Closed */
+"Store Closed" = "Restaurant fermé";
+
+/* Store is closing */
+"Store Closing Soon" = "Le restaurant ferme bientôt";
+
+/* Accessible spoken screen name */
+"Store Information" = "Données du restaurant";
+
+/* Accessible spoken screen name */
+"Store Menu" = "Menu du restaurant";
+
+/* Store status - open */
+"Store Open!" = "Restaurant ouvert!";
+
+/* South West */
+"SW" = "SO";
+
+/* Store Info Maps */
+"Switch to Maps" = "Changer à Cartes";
+
+/* ItemsSubHeaderText */
+"Tap an item to change it. Swipe left to remove an item from your order." = "Pressez un article pour le changer. Glissez vers la gauche pour retirer un article de votre commande.";
+
+/* CustomItemsSubHeaderText */
+"Tap an item to change it. Tap the name of your custom pizza to edit it. Swipe left to remove an item from your order." = "Pressez un article pour le changer. Pressez le nom de votre pizza sur mesure pour le modifier. Glissez vers la gauche pour retirer un article de votre commande.";
+
+/* No comment provided by engineer. */
+"Tap once for regular amount, twice for extra and a third time to remove it and start over." = "Pressez une fois pour la quantité normale, deux fois pour l’extra et une troisième fois pour effacer et recommencer.";
+
+/* No comment provided by engineer. */
+"Tap to go back and forth between adding extra cheese and not." = "Pressez pour alterner entre ajouter Extra fromage ou pas.";
+
+/* Accessible spoken screen name */
+"Terms And Privacy" = "Modalités et confidentialité";
+
+/* LegalItems */
+"Terms of Service" = "Modalités de service";
+
+"I have read and accept the Terms of Service" = "J’ai lu et j’accepte les Modalités de service";
+
+/* No comment provided by engineer. */
+"That order time is no longer available." = "Cette heure de commande n’est plus accessible.";
+
+/* Unorderable items */
+"That pickup time is not available based on your order." = "Cette heure de cueillette n’est pas accessible en fonction de votre commande.";
+
+/* CPB error */
+"The custom pizza builder is unavailable at this time." = "Le constructeur de pizza sur mesure n’est pas accessible en ce moment.";
+
+/* Terms of Service sent email */
+"The documents have been emailed." = "Les documents ont été envoyés par courriel.";
+
+/* Custom Pizza topping level warnings */
+"There are too many toppings on the LEFT side of this pizza." = "Il y a trop de garnitures sur la moitié GAUCHE de cette pizza.";
+
+/* Custom Pizza topping level warnings */
+"There are too many toppings on the RIGHT side of this pizza." = "Il y a trop de garnitures sur la moitié DROITE de cette pizza.";
+
+/* Custom Pizza topping level warnings */
+"There are too many toppings on this pizza." = "Il y a trop de garnitures sur cette pizza.";
+
+/* Custom Pizza topping level warnings */
+"There is one too many toppings on the LEFT side of this pizza." = "Il y a une garniture de trop sur la moitié GAUCHE de cette pizza.";
+
+/* Custom Pizza topping level warnings */
+"There is one too many toppings on the RIGHT side of this pizza." = "Il y a une garniture de trop sur la moitié DROITE de cette pizza.";
+
+/* Custom Pizza topping level warnings */
+"There is one too many toppings on this pizza." = "Il y a une garniture de trop sur cette pizza.";
+
+/* Server error when processing payment */
+"There was a problem verifying your account info. Please wait a minute and try again." = "Il y a eu un problème durant la vérification des données de votre compte. Veuillez attendre une minute et réessayer.";
+
+/* User error when processing payment */
+"There was a problem with the account information you entered. Please check and enter your account information again." = "Il y a eu un problème dans les données de compte que vous avez saisies. Veuillez vérifier les données de votre compte et les saisir à nouveau.";
+
+/* Force Update */
+"This app must be updated to continue. Please use the App Store on your device to update this app." = "Cette appli doit être mise à jour pour pouvoir continuer. Veuillez utiliser l’App Store de votre appareil pour mettre à jour l’appli.";
+
+/* Store Info screen before range of open/close times */
+"Today: " = "Aujourd’hui : ";
+
+/* Terse errors in text field entry */
+"Too Long" = "Trop long";
+
+/* No comment provided by engineer. */
+"Too many favorite stores. Please deselect one first." = "Trop de restaurants préférés. Veuillez commencer par en désélectionner un.";
+
+/* Terse errors in text field entry */
+"Too Short" = "Trop court";
+
+/* Accessible spoken screen name
+   Custom Pizza Builder menu */
+"Topping Graphic View" = "Vue graphique des garnitures";
+
+/* Accessible spoken screen name */
+"Topping List View" = "Vue de la liste des garnitures";
+
+/* Accessible spoken screen name */
+"Update Account" = "Mettre le compte à jour";
+
+/* Custom Pizza Builder */
+"Update my Pizza!" = "Mettez à jour ma pizza!";
+
+/* Custom Pizza Builder */
+"UPDATE MY PIZZA!" = "METTEZ À JOUR MA PIZZA!";
+
+/* Force Update */
+"Update Required" = "Mise à jour nécessaire";
+
+/* Accessible spoken screen name */
+"Use Credit Card" = "Utiliser carte de crédit";
+
+/* Promo Description */
+"Valid At: " = "Valable à ";
+
+/* Accessible spoken screen name */
+"Verify Password" = "Confirmez mot de passe";
+
+/* View pizza button for push alert */
+"View" = "Voir";
+
+/* Store Information Screen Disclosure */
+"View Store Promotion" = "Voir promotion restaurant";
+
+/* West */
+"W" = "O";
+
+/* Landing order details */
+"Warning! Pizza Portal™ is hot,please use caution." = "Attention! Le Portail PizzaMD est chaud; prenez des précautions.";
+
+/* Account verification via email */
+"We are sending you an email with instructions for verifying your account." = "Nous vous envoyons un courriel avec les instructions pour confirmer votre compte.";
+
+/* Email Verification */
+"We sent you an email with instructions on how to validate your account. Please click the verification link in the email to proceed. If you can’t find the email, please make sure to check all your folders or tap Resend." = "Nous vous avons envoyé un courriel avec les instructions sur la façon de valider votre compte. Veuillez cliquer sur le lien de confirmation du courriel pour poursuivre. Si vous ne trouvez pas le courriel, assurez-vous de vérifier tous vos dossiers ou pressez Resend.";
+
+/* Store is closing */
+"We’re sorry! The store is not open now. Please pick a different time for your order." = "Désolé! Le restaurant n’est pas ouvert en ce moment. Veuillez choisir un autre heure pour votre commande.";
+
+/* Store is closing */
+"We’re sorry! The store will not be able to make this order before closing. Please pick a different time for your order." = "Désolé! Le restaurant ne pourra pas préparer votre commande avant la fermeture. Veuillez choisir un autre heure pour votre commande.";
+
+/* Landing order details */
+"When your order is ready, the portal location and QR code will appear here." = "Une fois que votre commande sera prête, son emplacement au portail et votre code QR apparaîtront ici.";
+
+/* Custom Pizza topping level warnings */
+"Whoa! There are too many toppings on the LEFT side of this pizza. Please remove some." = "Ô! Il y a trop de garnitures du côté GAUCHE de cette pizza. Veuillez en retirer.";
+
+/* Custom Pizza topping level warnings */
+"Whoa! There are too many toppings on the RIGHT side of this pizza. Please remove some." = "Ô! Il y a trop de garnitures du côté DROIT de cette pizza. Veuillez en retirer.";
+
+/* Custom Pizza topping level warnings */
+"Whoa! There is one too many toppings on the LEFT side of this pizza. Please remove one." = "Ô! Il y a une garniture de trop du côté GAUCHE de cette pizza. Veuillez en retirer une.";
+
+/* Custom Pizza topping level warnings */
+"Whoa! There is one too many toppings on the RIGHT side of this pizza. Please remove one." = "Ô! Il y a une garniture de trop du côté DROIT de cette pizza. Veuillez en retirer une.";
+
+/* West North West */
+"WNW" = "ONO";
+
+/* Search screen slogan */
+"World's Easiest Way to Pizza!" = "Le chemin le plus facile du monde vers la pizza!";
+
+/* West South West */
+"WSW" = "OSO";
+
+/* LogOut PopUp
+   Push notification prompt option */
+"Yes" = "Oui";
+
+/* Custom Pizza topping level warnings */
+"Yikes! There are too many toppings on this pizza. Please remove some." = "Oh non! Il y a trop de garnitures sur cette pizza. Veuillez en retirer.";
+
+/* Custom Pizza topping level warnings */
+"Yikes! There is one too many toppings on this pizza. Please remove one." = "Oh non! Il y a une garniture de trop sur cette pizza. Veuillez en retirer une.";
+
+/* Feedback Send Result */
+"Your feedback has been sent." = "Votre rétroaction a été envoyée.";
+
+/* Email Verification */
+"Your Order Could Not Be Placed.\nTo Place An Order Your Account Needs To Be Verified." = "Votre commande n’a pu être placée.
+ Pour placer une commande, il faut que votre compte soit confirmé.";
+
+/* Order confirmation screen */
+"Your order number is" = "Votre numéro de commande est le";
+
+/* No time estimate known */
+"Your order will be ready\n as soon as possible." = "Votre commande sera prête
+ aussitôt que possible.";
+
+/* Search title */
+"FIND" = "Trouver";
+
+/* LCE Text Field */
+"Current Password" = "Mot de passe actuel";
+
+/* LCE Text Field */
+"New Password" = "Nouveau mot de passe";
+
+/* LCE Text Field */
+"Confirm New Password" = "Confirmer le nouveau mot de passe";
+
+/* Settings Button */
+"Settings" = "Réglages";
+
+/* Order Scheduled Time: */
+"Order Scheduled Time:" = "Heure prévue pour la commande:";
+
+/* Message when showing Setting alert */
+"Turn on Location Services in Settings > Privacy to allow Little Caesars to determine your current location" = "Activer les services de localisation dans Paramètres > Confidentialité pour permettre à Little Caesars de déterminer votre position actuelle";
+
+/* Trying to add credit card again */
+"You already have this credit card on your account." = "Vous avez déjà cette carte de crédit sur votre compte.";
+
+/* WarningString */
+"Warning: " = "Attention: ";
+
+"Online Ordering Coming Soon" = "La commande en ligne sera accessible bientôt";
+
+
+/* Nutrition Contextual Statement for US */
+"2,000 calories a day is used for general nutritional advice, but calorie needs vary. Additional nutritional information available upon request." = "2,000 calories a day is used for general nutritional advice, but calorie needs vary. Additional nutritional information available upon request.";
+
+/* Nutrition Contextual Statement for Canada */
+"Adults and youth (ages 13 and older) need an average of 2,000 calories a day, and children (ages 4 to 12) need an average of 1,500 calories a day. However, individual needs vary." = "Les adultes et jeunes (treize ans et plus) ont besoin en moyenne de 2 000 calories par jour, les enfants de quatre à douze ans en moyenne de 1 500 calories par jour. Les besoins individuels peuvent cependant varier.";
+
+
+/* Guest account one card at a time */
+"Guest accounts may only register one card at a time. Swipe to remove your current card and try again." = "Les comptes invités ne peuvent enregistrer qu'une seule carte à la fois. Faites glisser votre doigt pour supprimer votre carte actuelle et réessayez";
+
+/* WarningStringExtension */
+" indicates that the sodium (salt) content of this item is higher than the total daily recommended limit (2,300 mg). High sodium intake can increase blood pressure and risk of heart disease and stroke." = " indicates that the sodium (salt) content of this item is higher than the total daily recommended limit (2,300 mg). High sodium intake can increase blood pressure and risk of heart disease and stroke.";
+
+
+"Zip Code" = "Code postal";
+
+"Zip" = "postal";
+
+"CVV" = "CVV";
+
+"Street" = "Rue";
+
+"Exp Mo" = "Mois expir.";
+
+"State" = "Province";
+
+"Card Number" = "Numéro de carte";
+
+"Name on Card" = "Nom qui apparaît sur la carte";
+
+"City" = "Ville";
+
+"Postal Code" = "Code postal";
+
+"Exp Date" = "Date d'expiration";
+
+"Create Payment Method" = "Créez une méthode de paiement";
+
+"Store Order ID # " = "ID de commande du restaurant ";
+
+"Payment Method" = "Méthode de paiement";
+
+"Subtotal*" = "Sous-total*";
+
+"First Name" = "Prénom";
+
+"Last Name" = "Nom de famille";
+
+"Email" = "Adresse courriel";
+
+"Email (optional)" = "Adresse courriel (facultative)";
+
+"Email (Optional)" = "Adresse courriel (facultative)";
+
+"Phone" = "Numéro de téléphone";
+
+"Password" = "Mot de passe";
+
+/* Terms of Service agreement button */
+"ACCEPT & CONTINUE" = "Accepter et Continuer";
+
+/* Terms of Service title label */
+"AND NOW,SOME LEGALESE…" = "Maintenant, le jargon juridique...";
+
+"Today" = "Aujourd'hui";
+
+"hour" = "heure";
+
+"hours" = "heures";
+
+"Hour" = "Heure";
+
+"Hours" = "Heures";
+
+"As soon as possible" = "Dès que possible";
+
+/* Online Ordering Not Available */
+"We’re sorry! Online ordering is not available right now. Don’t worry, you can place an order for later." = "Désolé! La commande en ligne n'est pas accessible maintenant. Ne vous en faites pas, vous pouvez commander pour plus tard.";
+
+/* Store Menu Header */
+"CALL IN ORDER" = "DONNEZ VOTRE COMMANDE PAR TÉLÉPHONE";
+
+/* PAYBUTTON */
+"CREATE PAYMENT" = "CRÉER UN MODE DE PAIEMENT";
+
+"en-" = "fr-";
+
+/* Landing screen gear menu */
+"Find Pickup Location" = "Trouver emplacement de cueillette";
+
+/* Order Confirmation */
+"We'll see you at" = "Nous vous verrons à";
+// Biometric Translations
+
+/* FaceIDSetUpText */
+"LOGIN WITH FACE ID" = "CONNECTEZ-VOUS AVEC FACE ID";
+
+/* FaceIdDesc */
+"Face ID allows you to sign into your account in the quickest way." = "Face ID vous permet de vous connecter à votre compte de la manière la plus rapide.";
+
+/* EnableFaceId */
+"ENABLE FACE ID" = "ACTIVER FACE ID";
+
+/* EnableFaceId */
+"Enable Face ID" = "Activer Face ID";
+
+/* TouchIDSetUpText */
+"LOGIN WITH TOUCH ID" = "CONNECTEZ-VOUS AVEC TOUCH ID";
+
+/* TouchIdDesc */
+"Touch ID allows you to sign into your account in the quickest way." = "Touch ID vous permet de vous connecter à votre compte de la manière la plus rapide.";
+
+/* EnableTouchId */
+"ENABLE TOUCH ID" = "ACTIVER LE Touch ID";
+
+/* EnableTouchId */
+"Enable Touch ID" = "Activer le Touch ID";
+
+/* Not Now */
+"Not Now" = "Pas maintenant";
+
+/* Nutrional Information Header*/
+"Nutritional Information for" = "Données de Nutrition";
+
+/* Canadian Nutrition Note */
+"*NOTE: Nutritional and ingredient information is based on Little Caesars standard product formulation. While the ingredient information is based on standard product formulations, variations may occur depending on the particular supplier, product assembly per restaurant, regional, and other factors. Further, product formulations may change periodically.
+
+Calculations were performed on Genesis® R&D SQL Software, by ESHA Research, PO Box 13028, Salem, OR 97309 USA.
+
+Effective: November 1, 2016" = "REMARQUE : Les données sur la nutrition et les ingrédients sont fondées sur la formulation standard des produits de Little Caesars. Bien que les données sur les ingrédients soient fondées sur la formulation standard des produits, des variations peuvent se produire en fonction de chaque fournisseur, de l'assemblage des produits dans chaque restaurant, de la région et d'autres facteurs. De plus, la formulation des produits peut changer de temps à autre.
+
+Les calculs ont été faits à l'aide du logiciel SQL Genesis® R&D par ESHA Research, PO Box 13028, Salem, OR 97309 USA.
+
+En vigueur : 1er novembre 2016";
+
+/* About Text */
+"Little Caesars has been proudly serving delicious products for over 60 years. Throughout history, we've provided quality pizza at a great price, resulting in outstanding value for customers.
+
+Quality and value are core beliefs at Little Caesars, but the brand also represents passion, fun, commitment and a focus on family.
+
+Today, Little Caesars continues to innovatively provide more value to more people in more places. At Little Caesars, we prove our commitment to quality every day which includes using 100% fresh shredded cheese, sauce made from vine-ripened California crushed tomatoes, and dough made in house every day." = "Little Caesars sert fièrement des produits délicieux depuis plus de soixante ans. Au cours de notre histoire, nous avons offert de la pizza de qualité à un excellent prix, ce qui a signifié une valeur exceptionnelle pour nos clients.
+
+Qualité et valeur sont les croyances fondamentales de Little Caesars, mais la marque représente également passion, plaisir, engagement et une concentration sur la famille.
+
+De nos jours, Little Caesars continue à offrir de façon novatrice plus de valeur à plus de gens à plus d’endroits. Chez Little Caesars, nous prouvons tous les jours notre engagement à la qualité, qui comprend du fromage frais râpé à 100 %, de la sauce faite de tomates de Californie mûries sur pied broyées et de la pâte préparée quotidiennement dans chacun de nos restaurants.";
+
+/* Prompt in search field */
+"City & Province or Postal Code" = "Ville et province ou code postal";
+
+/* Accepted Payments */
+"We accept Apple Pay, Visa, Discover, Mastercard, and American Express.  Little Caesars gift cards are only valid in store." = "Nous acceptons Apple Pay, Visa, Discover, Mastercard et American Express. Les certificats-cadeaux Little Caesars ne sont valables qu’en restaurant.";
+
+/* Accepted Payments */
+"We accept Visa, Mastercard, and American Express.  Little Caesars gift cards are only valid in store." = "Nous acceptons Visa, Mastercard et American Express. Les certificats-cadeaux Little Caesars ne sont valables qu’en restaurant.";
+
+/* Ordering Menu Title */
+"Menu" = "Menu";
+
+/* Current order QR code */
+"Enter Code: %@" = "Saisissez le code: %@";
+"ENTER CODE: %@" = "SAISISSEZ LE CODE: %@";
+
+"DRIVE-THRU PICKUP" = "RECUEILLIR AU SERVICE-AU-VOLANT";
+
+"PIZZA PORTAL PICKUP" = "RECUEILLIR AU PORTAIL PIZZA";
+
+"IN-STORE ONLINE ORDER PICKUP" = "COMMANDE EN LIGNE EN MAGASIN";
+
+/* Change Store */
+"change store" = "Changer de restaurant";
+
+"Online Ordering Temporarily Offline" = "La commande en ligne est désactivée temporairement";
+
+"View Store Menu" = "Consultez le menu du restaurant";
+
+/* Change Store Warning */
+"Your shopping cart will be cleared. Would you like to continue?" = "Vous viderez votre chariot. Désirez-vous continuer?";
+
+"CONTINUE" = "CONTINUER";
+
+"CANCEL" = "ANNULER";
+
+/* Start Pick Up */
+"START PICKUP ORDER" = "Débit de la commande à emporter";
+
+/* Start Online Order */
+"BEGIN ONLINE ORDER" = "COMMENCER L'ORDRE";
+
+/* Store Hours */
+"TODAY'S HOURS" = "HEURES D'OUVERTURE AUJOURD'HUI";
+
+"DAILY HOURS" = "HORAIRE D'OUVERTURE";
+
+"You have successfully deleted your account." = "Vous avez réussi à effacer votre mot de passe.";
+
+/* Order In Progress Title */
+"Order in Progress" = "Commande en cours";
+
+"Add Card" = "Ajouter une carte";
+
+/* Navigation Bar Headers */
+"Custom Pizza Builder" = "Construction de pizza sur mesure";
+
+"Order Details" = "Détails de la commande";
+
+"Store Details" = "Détails du restaurant";
+
+"Checkout" = "Caisse";
+
+"Saved Payment Methods" = "Méthodes de paiement sauvegardées";
+
+"OH NO!" = "OH NON!";
+
+"The pizza builder is not currently available. Please call the store at %@ to place your order." = "Le constructeur de pizza n'est pas accessible en ce moment. Veuillez appeler le restaurant au %@ pour commander.";
+
+"A problem occurred placing your order. Please try again or call the store at %@ to place your order." = "Un problème s'est produit quand vous donniez votre commande. Veuillez réessayer ou appeler le restaurant au %@ pour commander.";
+
+"WHOOPS!" = "OUPS!";
+
+"YIKES!" = "DOMMAGE!";
+
+"Go Back" = "Retour en arrière";
+
+"FORGOT PASSWORD?" = "MOT DE PASSE OUBLIÉ?";
+
+"Password must be at least 7 characters long, using a combination of uppercase (A-Z), lowercase (a-z), numbers (0-9), and must not be part of your email address." = "Le mot de passe doit avoir au minimum 7 caractères et associer majuscules (A à Z), minuscules (a à z) et chiffres (0 à 9). Il ne doit en aucun cas faire partie de votre adresse email.";
+
+/* PPInstructionStep1CAN */
+"When your order is ready you will get an email." = "Une fois que votre commande sera prête, vous recevrez un courrie.";
+
+"By creating an account, I agree to the" = "En créant un compte, j’accepte les";
+"Terms and Service" = "Modalités et conditions de service";
+"and understand my information will be used as described in the" = "et je comprends que mes renseignements seront utilisés de la façon indiquée dans la";
+"Privacy Policy" = "Politique de confidentialité";
+
+"You are currently not connected to the internet. Please connect and try again." = "Vous n'êtes pas connecté à l'Internet. Veuillez vous connecter et réessayer.";
+
+"UH-OH" = "OH-OH";
+
+/* New Confirmation Translations */
+"Your order #%@ was received and will be ready on %@ at %@. " = "Votre commande #%@ a été reçue et sera prête le %@ à %@";
+
+"PIZZA PORTAL™ PICKUP INSTRUCTIONS" = "INSTRUCTIONS DE CUEILLETTE AU PORTAIL PIZZAMD";
+
+"DRIVE-THRU PICKUP INSTRUCTIONS" = "INSTRUCTIONS DE CUEILLETTE AU SERVICE-AU-VOLANT";
+
+"IN-STORE PICKUP INSTRUCTIONS" = "INSTRUCTIONS DE CUEILLETTE AU COMPTOIR";
+
+"When your order is ready, you will receive an email and a push notification." = "Lorsque votre commande est prête, vous recevrez un e-mail et une notification push.";
+
+"Look for your name on the Pizza Portal™ screen at the store. (If you dont see your name, talk with someone at the counter)" = "Trouvez votre nom à l’écran Portail PizzaMD au restaurant. (Si vous ne voyez pas votre nom, adressez-vous à une personne au comptoir)";
+
+"Enter the numeric code below or QR code on the Pizza Portal™. (The codes will also be emailed to you)" = "Saisissez le code numérique ci-dessous ou votre code QR code au Portail Pizza™ . (Les codes vous seront également envoyés par courriel)";
+
+"Your order will be in the Pizza Portal™ on your right as you enter the store." = "Votre commande sera dans le Pizza Portal™ sur votre droite lorsque vous entrez dans le magasin.";
+
+"Don't forget your drinks and Caesars Dips™ on your way out!" = "N’oubliez pas vos boissons et vos trempettes caesar en route!";
+
+"Warning! The Pizza Portal™ is hot, please use caution when opening." = "Attention! Le Portail PizzaMD  est chaud; prenez des précautions pour l’ouvrir.";
+
+"Share your name & order number with the employee at the counter." = " Indiquez votre nom et votre numéro de commande à l’employé au comptoir";
+
+"Enjoy!" = "Dégustez!";
+
+"Pay and Enjoy!" = "Payer et Savourer!";
+
+"Share your name and order number with the employee at the drive thru." = " Indiquez votre nom et votre numéro de commande à l’employé au service-au-volant.";
+
+"Order Name: %@" = "Nom de la commande: %@";
+
+"Order Number" = "Numéro de commande";
+
+"WE'RE CLOSING SOON!" = "NOUS FERMONS BIENTÔT.";
+
+"The next available pickup time for an online order is %@." = "La prochaine heure de cueillette pour les commandes en ligne est %@.";
+
+"Close" = "Fermer";
+
+"WE'LL BE RIGHT BACK." = "DE RETOUR DANS UN MOMENT";
+
+"PICKUP INSTEAD" = "Ramassage à la place";
+
+"DELIVERY IS NOT AVAILABLE HERE." = "La livraison n'est pas disponible ici.";
+
+"We don't deliver to your address quite yet, but we are expanding and will be there soon." = "Nous ne livrons pas encore à votre adresse, mais nous sommes en pleine expansion et nous y serons bientôt.";
+
+"The store is currently closed. The next available pickup time for an online order is %@." = "Le restaurant est fermé à l'heure actuelle. La prochaine heure de cueillette pour les commandes en ligne est %@.";
+
+"PLACE FUTURE ORDER" = "DONNER UNE COMMANDE FUTURE";
+
+"DISABLE ACCOUNT" = "DÉSACTIVER LE COMPTE";
+
+"Order Subtotal " = "Sous-total de la commande";
+
+"Cart" = "Commande";
+
+"Account Required" = "Compte Requis";
+
+"To set favorites, either login or create an account." = "Pour établir vos préférés, veuillez vous connecter ou créer un compte.";
+
+"Return to your cart to finish your order" = "Retournez à votre chariot pour terminer votre commande";
+
+"You left something tasty behind!" = "Vous avez laissé quelque chose de savoureux!";
+
+"Bake/Cheese/Sauce/Cut" = "Faire Cuire/Fromage/Sauce/Couper";
+
+"Options" = "Options";
+
+"Contact Information" = "Coordonnées";
+
+"I want to remember this card for future use" = "Je veux me souvenir de cette carte pour une utilisation future";
+
+"By checking this box, I authorize Little Caesar Enterprises, Inc. and its affiliates, including Little Caesar of Canada ULC, (collectively, “LCE”) to collect, store, use and disclose my credit card information as necessary for LCE and its service providers to process any future transactions on my account that I may initiate with LCE. I understand that I may revoke this authorization and have my credit card information deleted at any time by clicking Remove under Credit Cards in My Account. I understand that LCE will notify me of any changes to its program for storing, using or disclosing credit card information. This authorization is valid until revoked. I further acknowledge and agree that my credit card information may be stored outside of Canada by LCE and its service providers where applicable law provides for a different level of protection for personal information than in Canada." = "En cochant cette case, j’autorise Little Caesar Enterprises, Inc. et les sociétés qui y sont affiliées, y compris Little Caesar of Canada ULC (collectivement « LCE ») à recueillir, mettre en mémoire, utiliser et communiquer les renseignements relatifs à ma carte de crédit dans la mesure nécessaire pour permettre à LCE et ses fournisseurs de service de traiter à partir de mon compte toute transaction future que je pourrais effectuer avec LCE. Je comprends que je peux en tout temps révoquer la présente autorisation et demander à ce que les renseignements relatifs à ma carte de crédit soient effacés en cliquant sur Supprimer sous Cartes de crédit dans Mon compte. Je comprends que LCE m’avisera de tout changement à son programme de collecte, de mise en mémoire, d’utilisation et de communication des renseignements relatifs aux cartes de crédit. La présente autorisation est valide jusqu’à ce qu’elle soit révoquée. De plus, je reconnais et accepte que les renseignements relatifs à ma carte de crédit peuvent être conservés à l’extérieur du Canada par LCE et ses fournisseurs de service, dans des pays où les lois applicables prévoient un niveau de protection des renseignements personnels différent de celui en vigueur au Canada.";
+
+"You must check the box to add the card" = "Vous devez cocher la case pour ajouter la carte";
+
+"Choose Pickup Type" = "Choisir le type de cueillette";
+
+"Choose One" = "Choisissez-en un";
+
+"Estimated pickup time" = "Heure de cueillette estimée";
+
+"Orders of less than $10 are subject to a $2 Small Order Fee" = "Les commandes de moins de 10 $ sont soumises à des frais de 2 $";
+
+/* ErrorViewController Check Settings Button Text*/
+"Check Settings" = "Vérifier les Paramètres";
+
+// MARK: - delivery
+"CONFIRM DELIVERY DETAILS"  =  "Confirmez les détails de livraison";
+"Estimated Delivery Time"  =  "Heure de livraison estimée";
+"Add Optional Tip" = "Ajouter un pourboire facultatif";
+"Add a tip (100% goes to the driver)"  =  "Ajoutez un pourboire (il va entièrement au livreur)";
+"Other"  =  "Autre";
+"Delivery Details"  =  "Détails de livraison";
+"DELIVERY DETAILS" = "DÉTAILS DE LIVRAISON";
+"Delivery Available"  =  "Livraison disponible";
+"Delivery Address"  =  "Adresse de livraison";
+"Apt., Bldg, Floor (Optional)"  =  "Appartement, édifice, étage (facultatif)";
+"Customer Name"  =  "Nom du client";
+"Mobile Number*"  =  "Numéro mobile*";
+"Delivery Instructions (Optional)"  =  "Instructions de livraison";
+"*This is the number the driver will call and/or text if they need to get in touch with you. We only accept mobile numbers. By placing an order, you agree to share your contact information with the driver that will deliver your food."  =  "*Le livreur appellera ou enverra un texto à ce numéro s’il doit communiquer avec vous. Nous n’acceptons que les numéros mobiles. En faisant une commande, vous acceptez de partager vos coordonnées avec la personne qui va livrer votre repas.";
+"Continue"  =  "Continuez";
+"ESTIMATED DELIVERY TIME:"  =  "HEURE DE LIVRAISON ESTIMÉE:";
+"TRACK YOUR ORDER"  =  "FAITES LE SUIVI DE VOTRE COMMANDE";
+"DELIVERY"  =  "LIVRAISON";
+"If you are having an issue with your delivery order, please contact customer support at "  =  "Si vous avez un problème avec votre commande, veuillez appeler le service à la clientèle au";
+"Your order was received and will be delivered to you between %@"  =  "Votre commande a été reçue et vous sera livrée entre %@";
+"Delivery Fee"  =  "Frais de livraison";
+"Service Fee"  =  "Frais de service";
+"Small Order Fee"  =  "Frais pour petite commande";
+"Subtotal must be over %@ for delivery." = "Le total partiel doit être supérieur à %@ pour une livraison.";
+"Orders of less than $10 are subject to a $2 Small Order Fee"  =  "Les commandes de moins de 10 $ sont sujettes à 2$ de frais de petite commande";
+"THANK YOU FOR YOUR ORDER" = "MERCI DE VOTRE COMMANDE";
+"START NEW ORDER" = "COMMENCEZ UNE NOUVELLE COMMANDE";
+"SHOW ORDER DETAILS" = "VOYEZ LES DÉTAILS DE LA COMMANDE";
+"In-Store" = "En Magasin";
+"Subtotal" = "Sous-total";
+"TRY AGAIN" = "RÉESSAYER";
+"The store is currently closed and delivery is unavailable." = "Le magasin est actuellement fermé et la livraison est indisponible.";
+"Please select your country" = "Veuillez choisir votre pays";
+"United States" = "États-Unis";
+"Canada" = "Canada";
+"For whatever reason, we’re not able to deliver to the address you entered. Please try again or use Pizza Portal pickup." = "Pour une raison inconnue, nous ne pouvons pas livrer à l’adresse que vous nous avez donnée. Veuillez réessayer ou utiliser la cueillette au Pizza Portal.";
+"Use Pickup" = "Utilisez la Cueillette";
+"USE PICKUP" = "UTILISEZ LA CUEILLETTE";
+"MAP" = "CARTE";
+"DONE" = "TERMINÉ";
+"Receipt" = "Le reçu";
+"Delivery Location" = "Emplacement de livraison";
+"Pickup Location" = "Lieu de ramassage";
+"Amount Paid" = "Le montant payé";
+"Amount Due: %@" = "Montant Dû: %@";
+"Order Total" = "Total de la commande";
+"Selected Store" = "Restaurant sélectionné";
+"It is our goal to provide an app and experience that is accessible to individuals with physical limitations.  Sharing this information allows us to place orders in the Pizza Portal® Pickup where they are most easily retrievable." = "Nous avons pour but de fournir une appli et une expérience accessibles aux personnes ayant des limitations physiques.  Si vous partagez cette information avec nous, nous pourrons placer votre commande dans le Pizza Portal® de cueillette là où elle sera le plus facile à récupérer.";
+"Pizza Portal® Pickup Accessibility" = "Accessibilité de la collecte du Pizza Portal®";
+"Online ordering unavailable here" = "La commande en ligne n’est pas offerte ici";
+"REVIEW ORDER" = "Passer la commande en revue";
+"OPEN" = "Ouvrir";
+"CHANGE" = "Changer";
+"Change" = "Changer";
+"Have a promo code?" = "Vous avez un code promotionnel?";
+"There are no promo codes available at this location at this time." = "Aucun code promotionnel n’est disponible à ce restaurant pour l’instant.";
+"Delivery details such as apt#, building, and instructions can be added at checkout." = "Les détails de livraison, comme le numéro d’appartement, l’immeuble ou autres directives peuvent être ajoutés lors du paiement.";
+
+//MARK: - Pickup Checkout Screen
+"CHOOSE PICKUP TYPE" = "Choisir le type de cueillette";
+"Estimated Pickup Time" = "Heure de cueillette estimée";
+"PICKUP DETAILS" = "CUEILLETTE DÉTAILS";
+"Pay at Store" = "Payer en restaurant";
+//MARK: - Landing Screen Service Method Selection
+"HOW DO YOU WANT YOUR ORDER?" = "COMMENT VOULEZ-VOUS VOTRE COMMANDE?";
+"DELIVERY" = "LIVRAISON";
+"PICKUP" = "À EMPORTER";
+"PICK UP ORDER" = "Commande à emporter";
+"DELIVERY ORDER" = "Commande de livraison";
+"ADD MORE ITEMS" = "Ajouter plus d'articles";
+
+"Sorry, we don't deliver to that address.  If you place a pickup order you can skip the line with our amazing Pizza Portal Pickup." = "Désolé, nous ne livrons pas à cette adresse. Si vous commandez à emporter, vous pouvez éviter la caisse grâce à notre extraordinaire cueillette au Pizza Portal.";
+"This store is currently closed and not accepting delivery orders at this time." = "Le restaurant est fermé et n’accepte pas de commandes de livraison en ce moment.";
+"A problem occurred checking your address.  Please try again." = "Un problème s’est produit dans la vérification de votre adresse. Veuillez réessayer.";
+"DELIVERY NOT AVAILABLE" = "LA LIVRAISON N'EST PAS DISPONIBLE";
+"Invalid Tip Amount. Tip cannot exceed $%.2f" = " Montant de pourboire invalide. Le pourboire ne peut dépasser $%.2f";
+"A problem occurred placing your order for delivery.  Please try again.  If you continue to receive this message, you can always place a pickup order and can skip the line with our amazing Pizza Portal Pickup." = "Un problème s’est produit durant votre commande de livraison. Veuillez réessayer. Si vous recevez encore ce message, vous pouvez toujours commander à emporter, et éviter la caisse grâce à notre extraordinaire cueillette au Pizza Portal.";
+"We don't recognize the number you entered.  Please enter a valid 10-digit mobile number and try again." = "Nous ne reconnaissons pas le numéro que vous avez saisi. Veuillez saisir un   numéro mobile à 10 chiffres valable.";
+"TRY AGAIN" = "RÉESSAYER";
+//MARK: - Error Screen for Delivery
+"DELIVERY TEMPORARILY UNAVAILABLE" = "LA LIVRAISON N’EST PAS DISPONIBLE TEMPORAIREMENT";
+"Sorry, delivery to that address is temporarily unavailable. If you place a pickup order you can skip the line with our amazing Pizza Portal Pickup." = "Désolé, la livraison n’est pas disponible à cette adresse temporairement. Avec une commande à emporter, vous pouvez éviter de faire la queue grâce à notre extraordinaire cueillette au Pizza Portal.";
+"Delivery Instructions"  =  "Instructions de livraison";
+//MARK: - Error for Donating Pizzas via Delivery
+"WE’RE SORRY." = "Nous Sommes Désolés.";
+"To place an order that only consists of a donation, please place it as a pickup order (even though you don't have to pick it up). Your local Little Caesars will coordinate all donated pizzas and get them delivered. You don’t need to do anything else. Thank you for your generosity!" = "Pour passer une commande qui ne comporte que des pizzas à donner, veuillez indiquer qu’il s’agit d’une cueillette (même si vous ne devez pas venir chercher cette commande). Votre Little Caesars local coordonnera la livraison de toutes les pizzas données de cette manière. Aucune autre étape n’est nécessaire de votre part. Nous vous remercions pour votre générosité!";
+
+//For Tip Control
+"Driver Tip" = "Pourboire pour le livreur";
+
+"HIDE ORDER DETAILS" = "MASQUER LES DÉTAILS DE LA COMMANDE";
+
+"No results were found for your %@ search." = "Votre recherche n'a pas donné de résultats au %@";
+
+"Country" = "Pays";
+"Change Country?" = "Changer de Pays?";
+//MARK: - CVV Security Code Check
+"Security Code" = "Code de Sécurité";
+"Enter the Security Code for this card" = "Entrez le code de sécurité de cette carte";
+"The security code for this card is invalid.\nVerify the code and submit again." = "Le code de sécurité de cette carte est invalide.\nVérifiez ce code et soumettez-le de nouveau.";
+"For security purposes, we removed this card from your profile. Please select another card or re-enter your card details." = "Pour des raisons de sécurité, nous avons retiré cette carte de votre profil. Veuillez sélectionner une autre carte ou inscrire cette carte de nouveau.";
+//MARK: - CVV Security Code Check
+"Security Code" = "Code de Sécurité";
+"Enter Security Code for this card." = "Entrez le code de sécurité de cette carte.";
+"Enter the Security Code for the card ending in %@" = "Entrez le Code de Sécurité de la carte se terminant par %@";
+"The security code for this card is invalid. Verify the code and submit again." = "Le code de sécurité de cette carte est invalide. Vérifiez ce code et soumettez-le de nouveau.";
+
+//MARK: - Order Processing
+"Running Security Check" = "Vérification de Sécurité en Cours";
+"Processing Payment" = "Paiement en Traitement";
+"Placing Order with Store" = "Passer une Commande au Restaurant";
+
+// MARK: - App Version
+"We're Sorry" = "Nous Sommes Désolés";
+"Your device's OS version is no longer supported by our app.  Please update your version or click OK to order from our website." = "La version OS de votre appareil n’est plus prise en charge par notre appli. Veuillez mettre à jour votre version ou cliquer sur OK pour commander via notre site Web.";
+
+// MARK: - In store payment
+"%@ ending in %@" = "%@ que termina en %@";
+"Expires: %@" = "Expiration: %@";
+"Cash, Credit, or Gift Card at the counter" = "Comptant, Crédit ou Carte-Cadeau au comptoir";
+"Pay at Store" = "Payer en Restaurant";
+"AMOUNT DUE: %@" = "MONTANT DÛ: %@";
+"AMOUNT DUE: %.2f" = "MONTANT DÛ: %.2f";
+"Cash, Credit or Gift Card" = "Comptant, Crédit ou Carte-Cadeau";
+"Add a new card" = "Ajouter une nouvelle carte";
+"Orders more than %@ cannot be paid for at the store. Please choose another payment method or call the store to place your order." = "Les commandes de plus de %@ ne peuvent être payées pour ce restaurant. Veuillez choisir un autre mode de paiement ou contacter le restaurant pour commander.";
+
+"We're sorry, but due to irregular behavior on your account your order will not be placed. Either change your payment method to continue or call the store to place your pickup order at %@." = "Nous sommes désolés, mais en raison d’activités inhabituelles dans votre compte, votre commande ne peut être passée. Veuillez modifier votre mode de paiement pour poursuivre ou composer le %@ pour commander une cueillette en restaurant.";
+
+//MARK: - Future Order Picker
+"No scheduled orders are being accepted on the selected day." = "Aucune commande programmée n'est acceptée le jour sélectionné.";
+"Only orders for immediate pickup are being accepted today." = "Seules les commandes pour ramassage immédiat sont acceptées aujourd'hui.";
+"This store is currently closed and not accepting orders at this time. Please come back when we open at %@." = "Ce restaurant est actuellement fermé et ne peut accepter de commandes pour l’instant. Veuillez nous visiter de nouveau de %@.";
+
+// MARK: - Reorder
+"REORDER ITEMS FROM YOUR LAST ORDER?" = "Répéter votre dernière commande?";
+"Item availability and pricing vary by location" = "La disponibilité des plats et les prix varient selon les restaurants";
+"Add To Cart" = "Ajouter au panier";
+"No Thanks" = "Non merci";
+"None of the items from your last order are available at this store." = "Aucun des articles de votre dernière commande n’est disponible à ce restaurant.";
+"WE'RE SORRY." = "NOUS SOMMES DÉSOLÉS.";
+
+// MARK: - Cart
+"Before tax and eligible promotions" = "Avant taxes et promotions admissibles";
+
+//MARK: - Store Search
+"Check your location" = "Vérifiez votre emplacement";
+"The store you have selected is far away from your current location. Are you sure you want to order from this store?" = "Le restaurant sélectionné est très éloigné de votre emplacement actuel. Désirez-vous vraiment commander à ce restaurant?";
+//MARK: -Promo
+"Unable to validate code.  Please try again." = "Impossible de valider le code. Veuillez réessayer.";

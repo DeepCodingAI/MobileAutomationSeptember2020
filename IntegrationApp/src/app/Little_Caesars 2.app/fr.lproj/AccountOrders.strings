@@ -1,0 +1,52 @@
+/* Class = "UILabel"; text = "12:45"; ObjectID = "1z2-7H-w7G"; */
+"1z2-7H-w7G.text" = "12  h 45";
+
+/* Class = "UIButton"; normalTitle = "[734-125-6890]"; ObjectID = "5kg-u0-L9y"; */
+"5kg-u0-L9y.normalTitle" = "[734-125-6890]";
+
+/* Class = "UILabel"; text = "[8/29/2016 5:30pm]"; ObjectID = "6Ax-YB-vIZ"; */
+"6Ax-YB-vIZ.text" = "[29/8/2016 17 h 30]";
+
+/* Class = "UILabel"; text = "Review past, present and future orders here."; ObjectID = "8Ko-Kq-jj4"; */
+"8Ko-Kq-jj4.text" = "Passez en revue vos commandes passées, présentes et futures ici.";
+
+/* Class = "UILabel"; text = "[PL01]"; ObjectID = "14X-Gr-W0s"; */
+"14X-Gr-W0s.text" = "[PL01]";
+
+/* Class = "UILabel"; text = "Order history"; ObjectID = "Aat-Wn-OZY"; */
+"Aat-Wn-OZY.text" = "Historique de commandes";
+
+/* Class = "UILabel"; text = "[address\ncity state]"; ObjectID = "BA6-Z5-WSw"; */
+"BA6-Z5-WSw.text" = "[adresse
+ville province]";
+
+/* Class = "UILabel"; text = "NO"; ObjectID = "fEU-21-JYe"; */
+"fEU-21-JYe.text" = "NON";
+
+/* Class = "UILabel"; text = "CURRENT ORDER"; ObjectID = "IGL-1B-ccd"; */
+"IGL-1B-ccd.text" = "COMMANDE ACTUELLE";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "J1w-nx-Y5X"; */
+"J1w-nx-Y5X.text" = "123";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "j9F-bj-fQZ"; */
+"j9F-bj-fQZ.text" = "|";
+
+/* Class = "UILabel"; text = "[8/29/2016 5:30pm]"; ObjectID = "OqL-aK-BsZ"; */
+"OqL-aK-BsZ.text" = "[29/8/2016 17 h 30]";
+
+/* Class = "UILabel"; text = "[TITLE]"; ObjectID = "Plj-8o-NQJ"; */
+"Plj-8o-NQJ.text" = "[TITRE]";
+
+/* Class = "UILabel"; text = "PM"; ObjectID = "qar-kA-P3V"; */
+"qar-kA-P3V.text" = "PM";
+
+/* Class = "UILabel"; text = "[Pickup from Drive-in Window]"; ObjectID = "RKE-5F-SXo"; */
+"RKE-5F-SXo.text" = "[Cueillette au guichet du service-au-volant]";
+
+/* Class = "UILabel"; text = "[$9999.99]"; ObjectID = "WRe-PW-FiL"; */
+"WRe-PW-FiL.text" = "[9999,99 $]";
+
+/* Class = "UILabel"; text = "[$9999.99]"; ObjectID = "yRa-P3-JZI"; */
+"yRa-P3-JZI.text" = "[9999,99 $]";
+

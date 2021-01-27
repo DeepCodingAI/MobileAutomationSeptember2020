@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "2211 Woodward Avenue"; ObjectID = "1Bh-cl-Za3"; */
+"1Bh-cl-Za3.text" = "2211 Woodward Avenue";
+
+/* Class = "UILabel"; text = "THANK YOU FOR YOUR ORDER"; ObjectID = "4b2-bW-rFt"; */
+"4b2-bW-rFt.text" = "Gracias por su pedido";
+
+/* Class = "UILabel"; text = "August 31, 2018"; ObjectID = "C3M-lN-NcI"; */
+"C3M-lN-NcI.text" = "August 31, 2018";
+
+/* Class = "UILabel"; text = "91257792"; ObjectID = "C56-KK-Okf"; */
+"C56-KK-Okf.text" = "91257792";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "DJX-Uu-i8T"; */
+"DJX-Uu-i8T.text" = "Método de pago";
+
+/* Class = "UILabel"; text = "[$5.43]"; ObjectID = "Pg2-TE-ItT"; */
+"Pg2-TE-ItT.text" = "[$5.43]";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "PpL-EH-K6q"; */
+"PpL-EH-K6q.text" = "Subtotal";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "QNx-by-hgP"; */
+"QNx-by-hgP.text" = "Amount Paid";
+
+/* Class = "UIButton"; normalTitle = "SCAN CODE"; ObjectID = "RNh-we-PHK"; */
+"RNh-we-PHK.normalTitle" = "ESCANEE EL CÓDIGO";
+
+/* Class = "UILabel"; text = "[$5.43]"; ObjectID = "Sr5-Do-zVd"; */
+"Sr5-Do-zVd.text" = "[$5.43]";
+
+/* Class = "UILabel"; text = "Store Order ID #"; ObjectID = "ZyS-Zq-04z"; */
+"ZyS-Zq-04z.text" = "# de identificación de la pizzería";
+
+/* Class = "UILabel"; text = "PIZZA PORTAL PICKUP"; ObjectID = "bjg-ST-5N4"; */
+"bjg-ST-5N4.text" = "PIZZA PORTAL PICKUP";
+
+/* Class = "UIButton"; normalTitle = "MAP"; ObjectID = "cmO-d7-hpD"; */
+"cmO-d7-hpD.normalTitle" = "MAPA";
+
+/* Class = "UILabel"; text = "[1 Classic Pepperoni]"; ObjectID = "dVe-OX-Xdk"; */
+"dVe-OX-Xdk.text" = "[1 Classic Pepperoni]";
+
+/* Class = "UILabel"; text = "August 31, 2018"; ObjectID = "euD-jm-bt9"; */
+"euD-jm-bt9.text" = "August 31, 2018";
+
+/* Class = "UIButton"; normalTitle = "(800) 555-5555"; ObjectID = "ggP-OW-FIr"; */
+"ggP-OW-FIr.normalTitle" = "(800) 555-5555";
+
+/* Class = "UILabel"; text = "4:15 PM"; ObjectID = "jw3-ek-W4U"; */
+"jw3-ek-W4U.text" = "4:15 PM";
+
+/* Class = "UILabel"; text = "Discover (x-0003)"; ObjectID = "lfn-wI-WQ2"; */
+"lfn-wI-WQ2.text" = "Discover (x-0003)";
+
+/* Class = "UIButton"; normalTitle = "HIDE ORDER DETAILS"; ObjectID = "mBo-d7-tkg"; */
+"mBo-d7-tkg.normalTitle" = "OCULTAR LOS DETALLES DEL PEDIDO";
+
+/* Class = "UILabel"; text = "ENTER CODE: 471"; ObjectID = "n5z-uV-cHh"; */
+"n5z-uV-cHh.text" = "ENTER CODE: 471";
+
+/* Class = "UILabel"; text = "[$5.00]"; ObjectID = "qR5-4e-jA8"; */
+"qR5-4e-jA8.text" = "[$5.00]";
+
+/* Class = "UILabel"; text = "Estimated Pick Up Time"; ObjectID = "qtQ-n6-sLe"; */
+"qtQ-n6-sLe.text" = "Hora de recogida estimada";
+
+/* Class = "UILabel"; text = "Detroit, MI 48226"; ObjectID = "rAv-tH-aQV"; */
+"rAv-tH-aQV.text" = "Detroit, MI 48226";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "shv-u8-E0C"; */
+"shv-u8-E0C.text" = "Detalles de la orden";

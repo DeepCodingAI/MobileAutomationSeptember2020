@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "FAVORITE ITEMS"; ObjectID = "Bxg-yN-zMJ"; */
+"Bxg-yN-zMJ.text" = "ARTICLES PRÉFÉRÉS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dLB-FL-YKU"; */
+"dLB-FL-YKU.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "Your favorite items"; ObjectID = "E70-RD-9Cl"; */
+"E70-RD-9Cl.text" = "Vos articles préférés";
+
+/* Class = "UILabel"; text = "Here are your current favorites. You can remove them anytime. "; ObjectID = "Tn7-nw-ZnP"; */
+"Tn7-nw-ZnP.text" = "Voici vos préférés actuels. Vous pouvez les retirer à tout moment. ";
+

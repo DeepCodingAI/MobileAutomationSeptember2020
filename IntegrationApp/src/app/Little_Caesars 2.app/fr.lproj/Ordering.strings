@@ -1,0 +1,225 @@
+/* Class = "UIButton"; normalTitle = "FUTURE ORDER TIME"; ObjectID = "1RO-wC-8xV"; */
+"1RO-wC-8xV.normalTitle" = "HEURE DE COMMANDE FUTURE";
+
+/* Class = "UILabel"; text = "Your order number is:"; ObjectID = "4qQ-0K-FHs"; */
+"4qQ-0K-FHs.text" = "Votre numéro de commande est le :";
+
+/* Class = "UILabel"; text = "ExtraMostBestest"; ObjectID = "5KR-hD-7Wf"; */
+"5KR-hD-7Wf.text" = "La SuperExtraMeilleure";
+
+/* Class = "UILabel"; text = "ExtraMostBestest"; ObjectID = "5Mu-UP-X7a"; */
+"5Mu-UP-X7a.text" = "La SuperExtraMeilleure";
+
+/* Class = "UILabel"; text = "Are You Ready To Checkout?"; ObjectID = "5S3-sm-NCC"; */
+"5S3-sm-NCC.text" = "Êtes-vous prêt à passer à la caisse?";
+
+/* Class = "UIButton"; normalTitle = "Have a promo code?"; ObjectID = "ays-rh-egs"; */
+"ays-rh-egs.normalTitle" = "Vous avez un code promotionnel?";
+
+/* Class = "UIButton"; normalTitle = "In Store"; ObjectID = "6lS-ze-l2K"; */
+"6lS-ze-l2K.normalTitle" = "En restaurant";
+
+/* Class = "UILabel"; text = "Credit Cards"; ObjectID = "6Sw-GI-gKL"; */
+"6Sw-GI-gKL.text" = "Cartes de crédit";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "6V1-Un-jHQ"; */
+"6V1-Un-jHQ.normalTitle" = "TERMINÉ";
+
+/* Class = "UILabel"; text = "Payment method"; ObjectID = "8Hj-3B-ipT"; */
+"8Hj-3B-ipT.text" = "Méthode de paiement";
+
+/* Class = "UILabel"; text = "Using credit card"; ObjectID = "8Xp-Jw-Yqo"; */
+"8Xp-Jw-Yqo.text" = "Avec une carte de crédit ";
+
+/* Class = "UILabel"; text = "TAP FOR DIRECTIONS"; ObjectID = "8zW-le-Dgb"; */
+"8zW-le-Dgb.text" = "PRESSEZ POUR LES INSTRUCTIONS";
+
+/* Class = "UILabel"; text = "Order is not complete until you confirm details and tap pay or place order button below."; ObjectID = "9gs-wU-szQ"; */
+"9gs-wU-szQ.text" = "La commande n'est pas terminée tant que vous n'avez pas confirrmé les détails et appuyé sur Payer ou sur le bouton Commander ci-dessous.";
+
+/* Class = "UILabel"; text = "DETAILS"; ObjectID = "901-1L-Bp5"; */
+"901-1L-Bp5.text" = "DÉTAILS";
+
+/* Class = "UILabel"; text = "We’ll see you at"; ObjectID = "bnv-5l-pT9"; */
+"bnv-5l-pT9.text" = "Nous vous verrons à";
+
+/* Class = "UILabel"; text = "ORDER"; ObjectID = "Byy-Ly-b2b"; */
+"Byy-Ly-b2b.text" = "COMMANDER";
+
+/* Class = "UILabel"; text = "You’re picking up from"; ObjectID = "bzi-If-Gur"; */
+"bzi-If-Gur.text" = "Vous recueillerez la commande à";
+
+/* Class = "UIButton"; normalTitle = "PAYMENT"; ObjectID = "cbY-L1-0Nd"; */
+"cbY-L1-0Nd.normalTitle" = "PAIEMENT";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "cH1-P5-o2m"; */
+"cH1-P5-o2m.text" = "100,00 $";
+
+/* Class = "UIButton"; normalTitle = "FUTURE ORDER TIME"; ObjectID = "coY-NP-cuv"; */
+"coY-NP-cuv.normalTitle" = "HEURE DE COMMANDE FUTURE";
+
+/* Class = "UILabel"; text = "$6.00"; ObjectID = "e6g-16-rft"; */
+"e6g-16-rft.text" = "6,00 $";
+
+/* Class = "UILabel"; text = "(x - 0009)"; ObjectID = "FCP-2c-Uts"; */
+"FCP-2c-Uts.text" = "(x - 0009)";
+
+/* Class = "UILabel"; text = "Pickup order:"; ObjectID = "fjK-8Y-16f"; */
+"fjK-8Y-16f.text" = "Cueillette de la commande :";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "G4T-BB-auB"; */
+"G4T-BB-auB.normalTitle" = "TERMINÉ";
+
+/* Class = "UILabel"; text = "Promotions not available for guest checkout"; ObjectID = "GkE-sR-dHi"; */
+"GkE-sR-dHi.text" = "Promotions non disponibles pour le paiement à la caisse par le client";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "h97-qt-jow"; */
+"h97-qt-jow.normalTitle" = "PLACER LA COMMANDE";
+
+/* Class = "UIButton"; normalTitle = "At Pickup Window"; ObjectID = "hjo-RU-Uay"; */
+"hjo-RU-Uay.normalTitle" = "Au guichet de cueillette :";
+
+/* Class = "UILabel"; text = "We'll have it ready for you at:"; ObjectID = "hKK-gS-THU"; */
+"hKK-gS-THU.text" = "Nous aurons la commande prête pour vous à :";
+
+/* Class = "UILabel"; text = "Apple Pay"; ObjectID = "I66-Wn-v5B"; */
+"I66-Wn-v5B.text" = "Apple Pay";
+
+/* Class = "UILabel"; text = "Your order is scheduled to be ready\nSunday, May 29 12:30 PM"; ObjectID = "IPV-1U-9Jm"; */
+"IPV-1U-9Jm.text" = "Il est prévu que votre commande soit prête
+dimanche le 29 mai à midi 30";
+
+/* Class = "UILabel"; text = "Expires 02/20"; ObjectID = "IST-7a-li2"; */
+"IST-7a-li2.text" = "Expire 02/20";
+
+/* Class = "UILabel"; text = "Today 9:00pm"; ObjectID = "IxH-XJ-4Tm"; */
+"IxH-XJ-4Tm.text" = "Aujourd’hui à 21:00";
+
+/* Class = "UILabel"; text = "X-0000"; ObjectID = "Jgc-GA-Xws"; */
+"Jgc-GA-Xws.text" = "X-0000";
+
+/* Class = "UILabel"; text = "Estimated pickup time"; ObjectID = "Jla-nb-Gpv"; */
+"Jla-nb-Gpv.text" = "Heure de cueillette estimée";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "jWM-Uu-IrT"; */
+"jWM-Uu-IrT.text" = "distance";
+
+/* Class = "UILabel"; text = "Choose how you'd like to pay"; ObjectID = "kDL-uR-OVf"; */
+"kDL-uR-OVf.text" = "Choisissez comment vous désirez payer";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "Lxb-b8-EZE"; */
+"Lxb-b8-EZE.normalTitle" = "MODIFIER";
+
+/* Class = "UILabel"; text = "Order total"; ObjectID = "lZM-8d-7C3"; */
+"lZM-8d-7C3.text" = "Total de la commande";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "mG5-4g-Qbp"; */
+"mG5-4g-Qbp.text" = "Adresse
+Ville Province";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "mlM-Vj-iKz"; */
+"mlM-Vj-iKz.text" = "Sommaire";
+
+/* Class = "UILabel"; text = "EDIT ORDER"; ObjectID = "MYm-u0-re0"; */
+"MYm-u0-re0.text" = "MODIFIER COMMANDE";
+
+/* Class = "UILabel"; text = "Promotions not available for guest checkout"; ObjectID = "nb5-Nf-B9e"; */
+"nb5-Nf-B9e.text" = "Promotions non disponibles pour le paiement à la caisse du client";
+
+/* Class = "UILabel"; text = "Create Payment Method"; ObjectID = "Nj9-JU-wHB"; */
+"Nj9-JU-wHB.text" = "Créez une méthode de paiement";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Njl-Em-2jk"; */
+"Njl-Em-2jk.text" = "1";
+
+/* Class = "UILabel"; text = "Pickup only"; ObjectID = "aOS-wb-Ysx"; */
+"aOS-wb-Ysx.text" = "À emporter seulement";
+
+/* Class = "UILabel"; text = "Confirm your order"; ObjectID = "nSF-FF-ZFI"; */
+"nSF-FF-ZFI.text" = "Confirmez votre commande";
+
+/* Class = "UILabel"; text = "Need more time?"; ObjectID = "uwy-Dh-SrA"; */
+"uwy-Dh-SrA.text" = "Il vous faut plus de temps?";
+
+
+/* Class = "UILabel"; text = "Pizza Portal™ Pickup Instructions"; ObjectID = "PkU-gj-wxk"; */
+"PkU-gj-wxk.text" = "Instructions de cueillette au Portail PizzaMD";
+
+/* Class = "UILabel"; text = "(x-1234)"; ObjectID = "PQe-Np-lLu"; */
+"PQe-Np-lLu.text" = "(x-1234)";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "rdV-q8-Hw4"; */
+"rdV-q8-Hw4.text" = "100,00 $";
+
+/* Class = "UILabel"; text = "Swipe to remove a card"; ObjectID = "RoS-er-idN"; */
+"RoS-er-idN.text" = "Balayez pour retirer une carte";
+
+/* Class = "UILabel"; text = "Extra info"; ObjectID = "rR6-iL-bPR"; */
+"rR6-iL-bPR.text" = "Renseignements supplémentaires";
+
+/* Class = "UILabel"; text = "$6.00"; ObjectID = "rwc-9D-DKe"; */
+"rwc-9D-DKe.text" = "6,00 $";
+
+/* Class = "UILabel"; text = "Your order is scheduled to be ready on\nSep 12, 2017 at 9:30 AM."; ObjectID = "sYN-eO-v2o"; */
+"sYN-eO-v2o.text" = "Il est prévu que votre commande soit prête
+le 12 septembre 2017 à 9 h 30";
+
+/* Class = "UIButton"; normalTitle = "Change Store"; ObjectID = "ttZ-aU-V00"; */
+"ttZ-aU-V00.normalTitle" = "Changer de restaurant";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "txS-N0-fBm"; */
+"txS-N0-fBm.text" = "1";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "UGA-pQ-oVu"; */
+"UGA-pQ-oVu.text" = "Distance";
+
+/* Class = "UILabel"; text = "Thanks for your order!"; ObjectID = "v4E-t1-Fwu"; */
+"v4E-t1-Fwu.text" = "Merci de votre commande!";
+
+/* Class = "UILabel"; text = "Add New Card"; ObjectID = "Vx0-0o-qCC"; */
+"Vx0-0o-qCC.text" = "Ajoutez une nouvelle carte";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "W7k-rP-CNb"; */
+"W7k-rP-CNb.text" = "Adresse
+Ville Province";
+
+/* Class = "UILabel"; text = "Order summary"; ObjectID = "xb0-Re-TFz"; */
+"xb0-Re-TFz.text" = "Sommaire de la commande";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "XCe-o7-B38"; */
+"XCe-o7-B38.text" = "100,00 $";
+
+/* Class = "UILabel"; text = "Order total"; ObjectID = "YFI-2p-ib1"; */
+"YFI-2p-ib1.text" = "Total de la commande";
+
+/* Class = "UILabel"; text = "[OrderNumber]"; ObjectID = "yTM-ad-582"; */
+"yTM-ad-582.text" = "[NuméroCommande]";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "zF3-FS-yDo"; */
+"zF3-FS-yDo.text" = "Adresse
+Ville Province";
+
+/* Class = "UILabel"; text = "We plan to have your order \nready in %d mins."; ObjectID = "Zha-0h-w4g"; */
+"Zha-0h-w4g.text" = "Nous prévoyons d’avoir votre commande 
+prête dans %d mins.";
+
+/* Class = "UILabel"; text = "Choose Pickup Type"; ObjectID = "yW3-Wf-aBl"; */
+"yW3-Wf-aBl.text" = "Choisir le type de cueillette";
+
+/* Class = "UIButton"; normalTitle = "PROMO CODE: <code>"; ObjectID = "fvi-Ej-19d"; */
+"fvi-Ej-19d.normalTitle" = "CODE PROMO: <code>";
+
+/* Class = "UINavigationItem"; title = "Promo Code"; ObjectID = "kIK-Ik-kyf"; */
+"kIK-Ik-kyf.title" = "CODE PROMO";
+
+/* Class = "UILabel"; text = "PROMO CODE"; ObjectID = "8wd-rZ-U4L"; */
+"8wd-rZ-U4L.text" = "CODE PROMO";
+
+/* Class = "UITextField"; placeholder = "Enter promo code"; ObjectID = "oRp-8J-fEt"; */
+"oRp-8J-fEt.placeholder" = "Saisissez le code promo";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "a4H-Uh-4dq"; Note = "Promo Code Apply"; */
+"a4H-Uh-4dq.normalTitle" = "APPLIQUER";
+
+/* Class = "UIButton"; normalTitle = "REMOVE"; ObjectID = "ClJ-20-Zlv"; */
+"ClJ-20-Zlv.normalTitle" = "RETIRER";

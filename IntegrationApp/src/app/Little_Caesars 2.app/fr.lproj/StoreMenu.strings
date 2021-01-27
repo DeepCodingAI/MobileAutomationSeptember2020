@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "All your favorites in one place."; ObjectID = "dA7-On-QTG"; */
+"dA7-On-QTG.text" = "Tous vos préférés réunis au même endroit.";
+
+/* Class = "UILabel"; text = "The Little Caesars Menu you love.\n                                        Items available at most locations."; ObjectID = "dGb-RT-RDy"; */
+"dGb-RT-RDy.text" = "Le menu de Little Caesars que vous adorez.
+                                        Articles disponibles dans la plupart des restaurants.";
+
+/* Class = "UILabel"; text = "Store menu"; ObjectID = "nFf-am-BJp"; */
+"nFf-am-BJp.text" = "Menu du restaurant";
+
+/* Class = "UILabel"; text = "[Name]"; ObjectID = "oTd-7M-GFN"; */
+"oTd-7M-GFN.text" = "[Nom]";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "pwp-py-GpT"; */
+"pwp-py-GpT.text" = ">";
+
+/* Class = "UILabel"; text = "[Availability]"; ObjectID = "v9H-LL-L72"; */
+"v9H-LL-L72.text" = "[Disponibilité]";
+
+/* Class = "UILabel"; text = "[TITLE]"; ObjectID = "Vk9-Gw-Pb7"; */
+"Vk9-Gw-Pb7.text" = "[TITRE]";
+
+/* Class = "UILabel"; text = "[Price]"; ObjectID = "ym2-hp-s40"; */
+"ym2-hp-s40.text" = "[Prix]";
+
+/* Class = "UILabel"; text = "Nutritional Information for "; ObjectID = "N9j-5x-yrm"; */
+"N9j-5x-yrm.text" = "Données de nutrition";
+
+/* Class = "UILabel"; text = "Nutritional Information for "; ObjectID = "96C-us-9VA"; */
+"96C-us-9VA.text" = "Données de nutrition";

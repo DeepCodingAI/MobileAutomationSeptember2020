@@ -1,0 +1,78 @@
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "0Mw-Ew-HDZ"; */
+"0Mw-Ew-HDZ.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "61C-5D-gRT"; */
+"61C-5D-gRT.normalTitle" = "Cerrar";
+
+/* Class = "UIButton"; normalTitle = "Order Now!"; ObjectID = "6XP-PD-Lft"; */
+"6XP-PD-Lft.normalTitle" = "¡Ordene ahora!";
+
+/* Class = "UILabel"; text = "Recommended Order Size"; ObjectID = "7Xq-VA-dN3"; */
+"7Xq-VA-dN3.text" = "Tamaño recomendado del pedido";
+
+/* Class = "UIButton"; normalTitle = "Drinks"; ObjectID = "909-BS-xWp"; */
+"909-BS-xWp.normalTitle" = "Bebidas";
+
+/* Class = "UILabel"; text = "Address\nCity State"; ObjectID = "979-Rs-bEH"; */
+"979-Rs-bEH.text" = "Dirección Ciudad Estado ";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "9EP-Ql-tRn"; */
+"9EP-Ql-tRn.normalTitle" = "Para compartir";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "9kv-pj-84o"; */
+"9kv-pj-84o.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "foodname"; ObjectID = "AIB-Lh-Rg9"; */
+"AIB-Lh-Rg9.text" = "foodname";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "D6s-WM-9px"; */
+"D6s-WM-9px.text" = "$100.00";
+
+/* Class = "UIButton"; normalTitle = "Go!"; ObjectID = "EeC-45-0B1"; */
+"EeC-45-0B1.normalTitle" = "¡Listo!";
+
+/* Class = "UILabel"; text = "PIZZA PARTY CALCULATOR RESULTS"; ObjectID = "HFQ-hR-LWS"; */
+"HFQ-hR-LWS.text" = "RESULTADOS DEL CÁLCULO PARA SU FIESTA DE PIZZAS";
+
+/* Class = "UILabel"; text = "Number of Children"; ObjectID = "KGm-SZ-gup"; */
+"KGm-SZ-gup.text" = "Número de niños";
+
+/* Class = "UIButton"; normalTitle = "Sides"; ObjectID = "Mog-hw-KDq"; */
+"Mog-hw-KDq.normalTitle" = "Platos acompañantes";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "NLN-HZ-DZO"; */
+"NLN-HZ-DZO.text" = "distancia";
+
+/* Class = "UILabel"; text = "Here's what we suggest you order to make sure nobody goes home hungry."; ObjectID = "Oiu-H0-hal"; */
+"Oiu-H0-hal.text" = "Le sugerimos que ordene esto para que nadie se quede con hambre.";
+
+/* Class = "UILabel"; text = "DRINKS"; ObjectID = "POW-TY-FUb"; */
+"POW-TY-FUb.text" = "BEBIDAS ";
+
+/* Class = "UIButton"; normalTitle = "Pizza"; ObjectID = "Y8E-NT-6DD"; */
+"Y8E-NT-6DD.normalTitle" = "Pizza";
+
+/* Class = "UILabel"; text = "Customize your order"; ObjectID = "bqP-jV-MtV"; */
+"bqP-jV-MtV.text" = "Personalice su orden";
+
+/* Class = "UILabel"; text = "Let us take the guesswork out of entertaining! Tell us how many people you need to feed and we’ll suggest an order."; ObjectID = "iVJ-QI-d4e"; */
+"iVJ-QI-d4e.text" = "¡Déjenos hacer el trabajo para que usted se divierta! Díganos la cantidad de personas que necesita y le recomendaremos una opción.";
+
+/* Class = "UIButton"; normalTitle = "[734-125-6890]"; ObjectID = "jKl-dq-l7g"; */
+"jKl-dq-l7g.normalTitle" = "[734-125-6890]";
+
+/* Class = "UILabel"; text = "Number of Adults"; ObjectID = "r96-Yg-5AE"; */
+"r96-Yg-5AE.text" = "Número de adultos";
+
+/* Class = "UILabel"; text = "Pizza Party Calculator Results"; ObjectID = "s3s-1E-JxX"; */
+"s3s-1E-JxX.text" = "Resultados del cálculo para su fiesta de pizzas";
+
+/* Class = "UILabel"; text = "2-3 Slices/Person"; ObjectID = "tDK-j1-JOH"; */
+"tDK-j1-JOH.text" = "2-3 porciones por persona";
+
+/* Class = "UILabel"; text = "Pizza Party Calculator"; ObjectID = "zff-PD-5BN"; */
+"zff-PD-5BN.text" = "Calculadora para Fiestas de Pizzas";
+
+/* Class = "RotatingMessageLabel"; text = "Calculator results"; ObjectID = "s3s-1E-JxX"; */
+"s3s-1E-JxX.text" = "Resultados de la calculadora";

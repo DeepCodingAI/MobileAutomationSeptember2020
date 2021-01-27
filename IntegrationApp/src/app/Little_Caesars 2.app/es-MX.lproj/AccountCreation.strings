@@ -1,0 +1,29 @@
+/* Class = "UINavigationItem"; title = "Create Account"; ObjectID = "W6c-2a-Vi4"; */
+"W6c-2a-Vi4.title" = "Crear cuenta";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "DQe-0V-Ins"; */
+"DQe-0V-Ins.placeholder" = "Nombre";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "J3a-8o-5TM"; */
+"J3a-8o-5TM.placeholder" = "Apellido";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "P0i-08-fht"; */
+"P0i-08-fht.text" = "Crear cuenta";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "c77-Ek-hMw"; */
+"c77-Ek-hMw.placeholder" = "Teléfono";
+
+/* Class = "UITextField"; placeholder = "Re-enter Password"; ObjectID = "gyE-2z-GYJ"; */
+"gyE-2z-GYJ.placeholder" = "Escriba la contraseña otra vez";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "jN1-hb-cLY"; */
+"jN1-hb-cLY.placeholder" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "Tell us about yourself"; ObjectID = "kUv-ei-txX"; */
+"kUv-ei-txX.text" = "Díganos sobre usted";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rpA-vO-sOt"; */
+"rpA-vO-sOt.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT "; ObjectID = "EES-dI-5s2"; */
+"EES-dI-5s2.normalTitle" = "CREAR CUENTA";

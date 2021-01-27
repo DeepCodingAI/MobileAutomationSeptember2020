@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "FAVORITE ITEMS"; ObjectID = "Bxg-yN-zMJ"; */
+"Bxg-yN-zMJ.text" = "ARTÍCULOS FAVORITOS";
+
+/* Class = "UILabel"; text = "Your Favorite Items"; ObjectID = "E70-RD-9Cl"; */
+"E70-RD-9Cl.text" = "Tus artículos favoritos";
+
+/* Class = "UILabel"; text = "The Little Caesars menu items you just can't live without. If a new pizza catches your eye and displaces an old one, you can remove it here. "; ObjectID = "Tn7-nw-ZnP"; */
+"Tn7-nw-ZnP.text" = "Los artículos del menú de Little Caesars que no pueden vivir sin ellos. Si una nueva pizza atrapa su ojo y desplaza a una vieja, puede quitarla aquí. ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dLB-FL-YKU"; */
+"dLB-FL-YKU.text" = "Label";

@@ -1,0 +1,52 @@
+{
+  "ResponseTime" : null,
+  "PostDate" : "/Date(1592861514327)/",
+  "QRCodeData" : null,
+  "PromiseTimeDetails" : [
+    {
+      "ServiceMethod" : 0,
+      "PromisedStartDateTime" : "06/22/2020 06:01 PM",
+      "PromiseDateTimeRange" : "06:01 PM - 06:06 PM",
+      "MobileDateTimePicker" : null,
+      "PromisedDateTimeMessage" : null,
+      "PromisedEndDateTime" : "06/22/2020 06:06 PM",
+      "PromiseDateStatusCode" : 1
+    }
+  ],
+  "QRCodeEligibleMessage" : "Look for your name, John Smith, on the screen and enter your code 452, or scan the QR code.",
+  "ServiceMethodId" : 1,
+  "AppOrderNumber" : "452",
+  "CVOrderNumber" : 91286627,
+  "PickupDateTime" : {
+    "Day" : 22,
+    "Year" : 2020,
+    "Hours" : 18,
+    "Minutes" : 6,
+    "Month" : 6
+  },
+  "PromotionApplied" : false,
+  "ServiceMethod" : "In-Store",
+  "UniqueOrderNumber" : "20200622c7750f4005102131",
+  "ReponseCode" : "000",
+  "OrderDateTime" : {
+    "Day" : 22,
+    "Year" : 2020,
+    "Hours" : 17,
+    "Minutes" : 31,
+    "Month" : 6
+  },
+  "IsRiskyCustomer" : 0,
+  "QRCodeEligible" : false,
+  "ResponseMessage" : "Approved",
+  "PromotionMessage" : "",
+  "Delivery" : null,
+  "Status" : {
+    "Version" : 2,
+    "MessageCode" : "OK",
+    "VendorResponseMessage" : "",
+    "StatusCode" : 200,
+    "StatusDisplay" : "OK",
+    "StatusValue" : true,
+    "VendorResponseCode" : ""
+  }
+}

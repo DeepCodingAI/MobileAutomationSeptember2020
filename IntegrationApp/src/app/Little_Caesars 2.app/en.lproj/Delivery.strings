@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "ENTER DELIVERY ADDRESS"; ObjectID = "Jxf-ef-lzv"; */
+"Jxf-ef-lzv.text" = "ENTER DELIVERY ADDRESS";
+
+/* Class = "UITextField"; placeholder = "ex: 1234 Main St. Flint, MI 48501"; ObjectID = "PvC-ne-PBn"; */
+"PvC-ne-PBn.placeholder" = "ex: 1234 Main St. Pizzatown MI, 48201";
+
+/* Class = "UILabel"; text = "We’ve partnered with DoorDash to bring Little Caesars directly to you."; ObjectID = "hT7-5Y-Lj7"; */
+"hT7-5Y-Lj7.text" = "We’ve partnered with DoorDash to bring Little Caesars directly to you.";
+
+/* Class = "UIViewController"; title = "Delivery Address"; ObjectID = "ylf-nl-bma"; */
+"ylf-nl-bma.title" = "Delivery Address";
+
+/* Class = "UINavigationItem"; title = "Delivery Details"; ObjectID = "fNr-11-eoT"; */
+"fNr-11-eoT.title" = "Delivery Details";
+
+/* Class = "UILabel"; text = "DELIVERY AVAILABLE"; ObjectID = "r6W-cv-ixy"; */
+"r6W-cv-ixy.text" = "DELIVERY AVAILABLE";
+
+/* Class = "UILabel"; text = "This is the phone number the driver will call and/or text if they need to get in touch with you. We only accept mobile numbers.  By saving this, you agree to share your contact information with the DoorDash driver that will deliver your food."; ObjectID = "CJr-NP-yoN"; */
+"CJr-NP-yoN.text" = "*This is the number the driver will call and/or text if they need to get in touch with you. We only accept mobile numbers. By placing an order, you agree to share your contact information with the driver that will deliver your food.";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "dhU-wT-cQn"; */
+"dhU-wT-cQn.normalTitle" = "CONTINUE";
+
+/* Class = "UISegmentedControl"; text = "Other"; ObjectID = "MId-2F-AcA"; */
+"MId-2F-AcA.segmentTitles[3].title" = "Other";
+
+/* Class = "UILabel"; text = "DELIVERY"; ObjectID = "VrW-sH-0Q8"; */
+"VrW-sH-0Q8.text" = "DELIVERY";
+
+/* Class = "UILabel"; text = "DELIVERY"; ObjectID = "YH9-7J-IQ7"; */
+"YH9-7J-IQ7.text" = "How much would you like to tip your driver?";
+
+/* Class = "UILabel"; text = "Create an account and enjoy a faster checkout, purchase history, and favorites."; ObjectID = "eBI-ZI-I1l"; */
+"eBI-ZI-I1l.text" = "Create an account and enjoy a faster checkout, purchase history, and favorites.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Ecf-9C-6yd"; */
+"Ecf-9C-6yd.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "I have a physical limitation:"; ObjectID = "fw9-zm-8AY"; */
+"fw9-zm-8AY.text" = "I have a physical limitation:";
+
+/* Class = "UILabel"; text = "Visually Impaired"; ObjectID = "IEf-Fx-4mn"; */
+"IEf-Fx-4mn.text" = "Visually Impaired";
+
+/* Class = "UILabel"; text = "Reach Restriction"; ObjectID = "GFD-7n-nSR"; */
+"GFD-7n-nSR.text" = "Reach Restriction";
+
+/* Class = "UILabel"; text = ""; ObjectID = "OFk-K3-Xg2"; */
+"OFk-K3-Xg2.text" = "Yes, I would like to receive commercial electronic information and offers from Little Caesars (including emails and push notifications, which may be subject to fees charged by my wireless carrier), including on my wireless device. You may later unsubscribe.Your consent is sought by Little Caesar Enterprises, Inc. for itself and for Little Caesar of Canada ULC. Little Caesar Enterprises, Inc., 2211 Woodward Ave., Detroit, MI 48201; (privacy@lcecorp.com)";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT"; ObjectID = "yZp-f4-enf"; */
+"yZp-f4-enf.normalTitle" = "CREATE ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "NOT NOW"; ObjectID = "Uy6-cb-9Hh"; */
+"Uy6-cb-9Hh.normalTitle" = "NOT NOW";
+
+/* Class = "UINavigationItem"; title = "Create Account"; ObjectID = "B0v-b7-nET"; */
+"B0v-b7-nET.title" = "Create Account";

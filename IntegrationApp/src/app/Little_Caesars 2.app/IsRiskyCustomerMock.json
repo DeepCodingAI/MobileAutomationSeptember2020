@@ -1,0 +1,12 @@
+{
+  "Status" : {
+    "Version" : 2,
+    "MessageCode" : "OK",
+    "VendorResponseMessage" : "",
+    "StatusCode" : 200,
+    "StatusDisplay" : "OK",
+    "StatusValue" : true,
+    "VendorResponseCode" : ""
+  },
+  "IsRiskyCustomer" : 1
+}
