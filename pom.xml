@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>NYP</module>
+        <module>IntegrationApp</module>
     </modules>
 
     <dependencyManagement>
@@ -23,7 +24,12 @@
             <dependency>
                 <groupId>io.appium</groupId>
                 <artifactId>java-client</artifactId>
-                <version>3.1.0</version>
+                <version>7.3.0</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.poi</groupId>
+                <artifactId>poi</artifactId>
+                <version>4.1.2</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -33,6 +39,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.7.0</version>
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
@@ -41,7 +48,11 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>3.0.0-M3</version>
+                <version>2.20.1</version>
+                <configuration>
+                    <suiteXmlFiles>
+                    </suiteXmlFiles>
+                </configuration>
             </plugin>
         </plugins>
     </build>

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc4ca28c-3182-428e-8b8c-9a09a67e11d2" name="Default Changelist" comment="" />
+    <list default="true" id="dc4ca28c-3182-428e-8b8c-9a09a67e11d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/MobileAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/MobileAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileAutomationSept2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/src/test/resources/NYPTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/NYP-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYP/target/test-classes/NYPTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,39 +36,45 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1n5MglnD1rAc7oKViP9sjOAIFeW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NYP/src/test/resources" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IntegrationApp/src/app" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NYP/src/test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IntegrationApp/src/app" />
       <recent name="$PROJECT_DIR$/NYP/src/test/resources" />
       <recent name="$PROJECT_DIR$/NYP/src/app" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IntegrationApp/src/test" />
+      <recent name="$PROJECT_DIR$/NYP/src/test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="integrationTest" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG./Users/shams/Documents/FullStackSDET/iOS-Automation/MobileAutomationSeptember2020/IntegrationApp/src/test/resources/IntegrationAppTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -78,6 +106,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/shams/Documents/FullStackSDET/iOS-Automation/MobileAutomationSeptember2020/IntegrationApp/src/test/resources/IntegrationAppTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IntegrationApp" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/IntegrationApp/src/test/resources/IntegrationAppTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shams/Documents/FullStackSDET/iOS-Automation/MobileAutomationSeptember2020/IntegrationApp/src/test/resources/IntigrationAppTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IntegrationApp" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/IntegrationApp/src/test/resources/IntigrationAppTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -98,10 +148,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/shams/Documents/FullStackSDET/iOS-Automation/MobileAutomationSeptember2020/IntegrationApp/src/test/resources/IntegrationAppTestRunner.xml" />
         <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/MobileAutomationSept2020/NYP/src/test/resources/NYPTestRunner.xml" />
+        <item itemvalue="TestNG./Users/shams/Documents/FullStackSDET/iOS-Automation/MobileAutomationSeptember2020/IntegrationApp/src/test/resources/IntigrationAppTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -115,50 +168,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="330" y="121" key="#Project_Structure" timestamp="1610675817021">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="330" y="121" key="#Project_Structure/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610675817021" />
-    <state width="1397" height="192" key="GridCell.Tab.0.bottom" timestamp="1610679069717">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069717" />
-    <state width="1397" height="192" key="GridCell.Tab.0.center" timestamp="1610679069716">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069716" />
-    <state width="1397" height="192" key="GridCell.Tab.0.left" timestamp="1610679069714">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069714" />
-    <state width="1397" height="192" key="GridCell.Tab.0.right" timestamp="1610679069717">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069717" />
-    <state width="1397" height="192" key="GridCell.Tab.1.bottom" timestamp="1610679069719">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069719" />
-    <state width="1397" height="192" key="GridCell.Tab.1.center" timestamp="1610679069718">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069718" />
-    <state width="1397" height="192" key="GridCell.Tab.1.left" timestamp="1610679069718">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069718" />
-    <state width="1397" height="192" key="GridCell.Tab.1.right" timestamp="1610679069718">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1397" height="192" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610679069718" />
-    <state x="308" y="51" width="845" height="807" key="find.popup" timestamp="1610677442487">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="308" y="51" width="845" height="807" key="find.popup/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610677442487" />
-    <state x="107" y="155" key="new project wizard" timestamp="1610677302306">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="107" y="155" key="new project wizard/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1610677302306" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
